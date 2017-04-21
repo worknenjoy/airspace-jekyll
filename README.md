@@ -1,12 +1,21 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Work n enjoy
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This is the website of the Work n Enjoy, a company that believes that the colaborative work is very close to open source.
 
 ## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+All the website content is here, you can edit and then request a pull request.
 
-## Examples
+### Issues
+If you go in the list issues, actually you will find demands for this project, that you can be assigend and paid having a account on http://gitpay.me.
+
+## What we use
+
+We use Github Pages hosted in a custom domain (http://www.gitpay.com) and Jekyll for choose the theme.
+
+Jekyll is a Ruby framework that github supports to generate dinamic pages. If you know Wordpress (http://www.wordpress.com) I can tell you that it uses PHP in a Apache server. So Github host a complete website using Jekyll as template language.
+
+The language is simple and is made by configuration files and plain html, css and js files.
+
 Here are some projects that have used this Jekyll Theme:
 * [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
 * [Campus VC](https://mrchildneo.github.io/mrchildneo/)
