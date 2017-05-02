@@ -12,10 +12,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-
-gems:
-  - jekyll-multiple-languages-plugin
-
 languages: ["en", "br"]
 exclude_from_localizations: ["javascript", "images", "css"]
 
