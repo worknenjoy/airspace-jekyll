@@ -4,6 +4,8 @@
  *
  */
 
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
  .italic {
    font-style: italic;
  }
@@ -14,6 +16,23 @@
 
  .center-text {
    text-align: center;
+ }
+
+.main-text-highlight {
+    color: #fff;
+    font-size: 82px !important;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif !important;
+    text-shadow: 0 0 6px rgba(0,0,0,0.9);
+}
+
+ .inverse-text {
+     color: white;
+     font-weight: bold;
+     padding: 10px;
+     background: #e82432;
+     opacity: 0.6;
+     display: inline-block;
  }
 
 .post-area {

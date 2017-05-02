@@ -12,10 +12,13 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+languages: ["en", "br"]
+exclude_from_localizations: ["javascript", "images", "css"]
+
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Work n Enjoy
+subtitle: "A Startup that create solutions for remote working"
 url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
