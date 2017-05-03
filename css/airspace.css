@@ -99,10 +99,10 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/IMG_9677.jpg") no-repeat;
+  background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: scroll;
-  background-position: 40% 70%;
+  background-position: 40% 20%;
   position: relative;
 }
 #slider:before {

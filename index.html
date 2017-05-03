@@ -44,11 +44,8 @@ permalink: /
 <div class="container">
   <div class="row">
     <div class="col-md-6 col-md-offset-6">
-      <h2>WE BELIEVE IN GREAT IDEAS</h2>
-      <p>Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p>Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p>Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <a href="#" class="btn btn-view-works">View Works</a>
+      <h2>{% t global.work.title %}</h2>
+      <p>{% t global.work.p %}</p>
     </div>
   </div>
 </div>
@@ -59,67 +56,20 @@ permalink: /
   <div class="container">
     <div class="row">
       <div class="section-title">
-        <h2>Our Services</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+        <h2>{% t global.service.title %}</h2>
+        <p>{% t global.service.p %}</p>
       </div>
     </div>
     <div class="row ">
+      {% for item in site.translations[site.lang]["global"]["features"] %}
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <i class="icon ion-coffee"></i>
-          <h4>Branding</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+          <i class="icon {{ item.icon }}"></i>
+          <h4>{{ item.title }}</h4>
+          <p>{{ item.p }}</p>
         </div>
       </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-compass"></i>
-          <h4>Web Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-image"></i>
-          <h4>App Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-bug"></i>
-          <h4>Start Up</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-headphone"></i>
-          <h4>Logo Design</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-leaf"></i>
-          <h4>Development</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-planet"></i>
-          <h4>Brand Identity</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-3">
-        <div class="service-item">
-          <i class="ion-earth"></i>
-          <h4>Brand Identity</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
-        </div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </section>
@@ -129,9 +79,11 @@ permalink: /
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
+          <h2>{% t global.call-to-action.title %}</h2>
+          <p>{% t global.call-to-action.p %}</p>
+          <!--
           <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
+          -->
         </div>
       </div>
     </div>
@@ -142,10 +94,11 @@ permalink: /
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
-        <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+        <h2>{% t global.people.title %}</h2>
+        <p>{% t global.people.p %}</p>
       </div>
     </div>
+    <!--
     <div class="row">
       <div class="col-md-6">
         <div class="block">
@@ -220,6 +173,6 @@ permalink: /
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </section>

@@ -1,7 +1,41 @@
 global:
   title: work n enjoy
-  tagline: empreendorismo digital
+  tagline: digital enterprenour
   about:
-    intro: bla blaaa
-    text: bla bla
-    desc: bla bla bla
+    intro: We give you tools to work from anywhere
+    text: guidances and support to work in digital life
+    desc: work with us and be open to collaborative world
+  work:
+    title: we want to make stuff for nomads and remote workers
+    p: For content writers, developers and service providers
+  service:
+    title: we want to change the work
+    p: by doing stuff that impacts the economy and the way you receive money
+  features:
+    - icon: ion-coffee
+      title: Co working
+      p: from coffee shops to everywhere
+    - icon: ion-compass
+      title: be ready to be anywhere
+      p: we have tools for you approve
+    - icon: ion-image
+      title: give your image to the world
+      p: make your image and sell your services
+    - icon: ion-bug
+      title: fix issue
+      p: working and making your fix
+    - icon: ion-headphone
+      title: work quietly
+      p: working directions
+    - icon: ion-leaf
+      title: be part of the nature
+      p: working and enjoy from anywhere
+    - icon: ion-planet
+      title: be part of the planet
+      p: explore the planet
+    - icon: ion-earth
+      title: make the change with others
+      p: working remotly teams and be collaborative
+  footer:
+    copy: All rights reserved
+    theme: Copyright &copy; Design &amp; Developed by
