@@ -1,8 +1,8 @@
 .bundle
 .sass-cache
 Gemfile.lock
-.DS_Store
-/.idea
+.DS_Storea
+.idea/
 *.iml
-/tmp
-/_site
+tmp/
+_site/
