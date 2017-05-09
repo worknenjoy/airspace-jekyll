@@ -10,6 +10,7 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
+rm -rf docs/
 jekyll build -d docs
 git add .
 git commit -am "$1"
