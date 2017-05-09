@@ -6,8 +6,8 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
-
-keep_files:
+  - "publish.sh"
+  - "worknenjoy.iml"
   - "CNAME"
   - ".git"
   - ".gitignore"
