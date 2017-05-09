@@ -17,7 +17,7 @@ gems:
   - jekyll-multiple-languages-plugin
 
 languages: ["en", "br"]
-exclude_from_localizations: ["javascript", "images", "css"]
+#exclude_from_localizations: ["javascript", "images", "css"]
 
 
 # Site settings

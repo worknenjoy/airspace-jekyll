@@ -1,4 +1,8 @@
 global:
+  lang: Choose your language
+  one-country: Portuguese
+  other-country: English
+  fork: Fork me on GitHub
   title: work n enjoy
   tagline: digital enterprenour
   about:

@@ -1,4 +1,8 @@
 global:
+  lang: Escolha seu idioma
+  one-country: Português
+  other-country: Inglês
+  fork: Fork me on GitHub
   title: work n enjoy
   tagline: empreendedorismo digital
   about:
