@@ -3,7 +3,7 @@
 SELF=`basename $0`
 SOURCE_BRANCH="master"
 DEST_BRANCH="gh-pages"
-TMP_DIR="_site"
+TMP_DIR="docs"
 
 if [[ -z "$1" ]]; then
   echo "Please enter a git commit message"
