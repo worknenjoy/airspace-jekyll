@@ -11,9 +11,9 @@ if [[ -z "$1" ]]; then
 fi
 
 rm -rf docs/
-jekyll build -d docs
 git add .
 git commit -am "$1"
+jekyll build -d docs
 
 echo "git pushing"
 git push origin master
