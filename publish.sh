@@ -1,6 +1,7 @@
 #!/bin/sh
 
 echo "git pushing to gh-pages"
-bundle exec jekyll build
+jekyll build && \
+  touch _site/.nojekyll
 git push origin --delete gh-pages
 git subtree push --prefix _site origin gh-pages
