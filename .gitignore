@@ -2,7 +2,7 @@
 .sass-cache
 Gemfile.lock
 .DS_Store
-/.idea/
+/.idea
 *.iml
 /tmp
 /_site
