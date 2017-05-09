@@ -16,7 +16,8 @@ TMP_DIR="_site"
 #git push origin master
 #echo "Successfully built and pushed to GitHub."
 
-jekyll build
+#jekyll build
+
 rm -rf .git/subtree-cache/
 
 git push origin --delete gh-pages
