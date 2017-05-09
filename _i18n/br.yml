@@ -11,6 +11,9 @@ global:
   service:
     title: we want to change the work
     p: by doing stuff that impacts the economy and the way you receive money
+  call-to-action:
+    title: entre nos nossos projetos
+    p: e desfrute da vida balanceando o trabalho e a diversão
   features:
     - icon: ion-coffee
       title: Co working
@@ -39,3 +42,4 @@ global:
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
+    ending: experiência como serviço

@@ -2,9 +2,9 @@ global:
   title: work n enjoy
   tagline: digital enterprenour
   about:
-    intro: We give you tools to work from anywhere, anytime
+    intro: we give the right tools for the nomad nerds
     text: guidances and support to work in digital life
-    desc: be open to collaborative world and no office
+    desc: the office is the world
   work:
     title: we want to make stuff for nomads and remote workers
     p: For content writers, developers and service providers
@@ -45,3 +45,4 @@ global:
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
+    ending: experience as a service
