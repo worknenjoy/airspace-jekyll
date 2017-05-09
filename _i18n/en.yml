@@ -2,11 +2,11 @@ global:
   title: work n enjoy
   tagline: digital enterprenour
   about:
-    intro: we give the right tools for the nomad nerds
+    intro: we give the right tools for the nomad nerds and independent writers
     text: guidances and support to work in digital life
     desc: the office is the world
   work:
-    title: we want to make stuff for nomads and remote workers
+    title: we want to build for nomads and remote workers
     p: For content writers, developers and service providers
   service:
     title: we want to change the work
