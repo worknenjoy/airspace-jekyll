@@ -16,8 +16,6 @@ TMP_DIR="_site"
 #git push origin master
 #echo "Successfully built and pushed to GitHub."
 
-rm -rf _site/
-
 jekyll build
 rm -rf .git/subtree-cache/
 
