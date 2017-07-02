@@ -44,7 +44,7 @@ global:
       title: Let's go together!
       p: Leave your e-mail to receive news and updates (we don't send spam, of course)
   people:
-      title: \"The future is what I create today. Every day\"
+      title: '"The future is what I create today. Every day"'
       p: "- Chris Brogan"
   footer:
     copy: All rights reserved
