@@ -11,7 +11,7 @@ global:
     desc: "You want freedom! (Who doesn't, right?)"
   work:
     title: Independent digital workers need specific tools
-    p: Work'n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave. For content writers, developers and service providers
+    p: Work'n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave.
   service:
     title: We want to change the way people work
     p: by doing stuff that impacts the economy and the way you receive money
@@ -44,8 +44,8 @@ global:
       title: Let's go together!
       p: Leave your e-mail to receive news and updates (we don't send spam, of course)
   people:
-      title: Inspirational quote
-      p: "Happiness is not something ready made. It comes from your own actions".<br/>- Dalai Lama<p>“The future is what I create today. Every day."<br/>- Chris Brogan</p>
+      title: “The future is what I create today. Every day"
+      p: - Chris Brogan
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
