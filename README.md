@@ -10,7 +10,7 @@ If you go in the list issues, actually you will find demands for this project, t
 
 ## What we use
 
-We use Github Pages hosted in a custom domain (http://www.gitpay.com) and Jekyll for choose the theme.
+We use Github Pages hosted in a custom domain (http://www.worknenjoy.com) and Jekyll for choose the theme.
 
 Jekyll is a Ruby framework that github supports to generate dinamic pages. If you know Wordpress (http://www.wordpress.com) I can tell you that it uses PHP in a Apache server. So Github host a complete website using Jekyll as template language.
 
