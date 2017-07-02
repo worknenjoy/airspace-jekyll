@@ -7,18 +7,18 @@ global:
   tagline: digital entrepreneur
   about:
     intro: The world is changing
-    text: "And it's changing at a fast and accelerated rate! The way people work today is no longer the same. Autonomy and flexibility are the words for the future worker. <br/>You want to work on your grounds, whenever you want, from wherever you want, at your own pace. You want things to be simple and agile, straight-forward."
+    text: "And it's changing at a fast and accelerated rate! The way people want to work today is no longer the same. Autonomy and flexibility are the words for the future. <br/>You want to work on your grounds, whenever you want, from wherever you want, at your own pace. You want things to be simple and agile, straight-forward."
     desc: "Work location: anywhere"
   work:
     title: Independent digital workers need specific tools
     p: Work'n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave. For content writers, developers and service providers
   service:
-    title: we want to change the work
+    title: We want to change the way people work
     p: by doing stuff that impacts the economy and the way you receive money
   features:
     - icon: ion-coffee
-      title: work anywhere
-      p: from coffee shops to everywhere
+      title: work from anywhere
+      p: home? café? park?
     - icon: ion-compass
       title: be ready to be anywhere
       p: we have tools for you approve
@@ -38,8 +38,8 @@ global:
       title: be part of the planet
       p: explore the planet
     - icon: ion-earth
-      title: make the change with others
-      p: working remotly teams and be collaborative
+      title: be part of the change
+      p: let's break the work paradigm together
   call-to-action:
       title: calling the action
       p: calling the paragraph to action
