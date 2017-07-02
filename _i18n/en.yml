@@ -4,7 +4,7 @@ global:
   other-country: English
   fork: Fork me on GitHub
   title: work'n enjoy
-  tagline: digital entrepreneur
+  tagline: for digital entrepreneurs
   about:
     intro: The world is changing
     text: "And it's changing at a fast and accelerated rate! The way people want to work today is no longer the same. Autonomy and flexibility are the words for the future. <br/>You want to work on your grounds, whenever you want, from wherever you want, at your own pace. You want things to be simple and agile, straight-forward."
@@ -20,17 +20,17 @@ global:
       title: work from anywhere
       p: home? café? park?
     - icon: ion-compass
-      title: be ready to be anywhere
-      p: we have tools for you approve
+      title: follow the trend
+      p: we give you the directions
     - icon: ion-image
-      title: give your image to the world
-      p: make your image and sell your services
+      title: enhance your image
+      p: show your talents to the world
     - icon: ion-bug
-      title: fix issue
-      p: working and making your fix
+      title: fix small bugs
+      p: get small tasks, no strings attached
     - icon: ion-headphone
       title: work quietly
-      p: working directions
+      p: at your own pace, by your own rules
     - icon: ion-leaf
       title: be part of the nature
       p: working and enjoy from anywhere
