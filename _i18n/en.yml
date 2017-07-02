@@ -32,20 +32,20 @@ global:
       title: work quietly
       p: at your own pace, by your own rules
     - icon: ion-leaf
-      title: be part of the nature
-      p: working and enjoy from anywhere
+      title: enjoy nature
+      p: work is not all, go outside, go explore
     - icon: ion-planet
-      title: be part of the planet
-      p: explore the planet
+      title: to infinity and beyond
+      p: out of the box is not enough
     - icon: ion-earth
       title: be part of the change
       p: let's break the work paradigm together
   call-to-action:
-      title: calling the action
-      p: calling the paragraph to action
+      title: Let's go together!
+      p: Leave your e-mail to receive news and updates (we don't send spam, of course)
   people:
-      title: title of the people that help us
-      p: the paragraph for people
+      title: Inspirational quote
+      p: The quote
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
