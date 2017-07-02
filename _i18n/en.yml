@@ -45,7 +45,7 @@ global:
       p: Leave your e-mail to receive news and updates (we don't send spam, of course)
   people:
       title: Inspirational quote
-      p: The quote
+      p: "Happiness is not something ready made. It comes from your own actions".<br/>- Dalai Lama<p>“The future is what I create today. Every day."<br/>- Chris Brogan</p>
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
