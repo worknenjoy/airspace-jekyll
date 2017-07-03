@@ -43,6 +43,9 @@ global:
   call-to-action:
       title: calling the action
       p: calling the paragraph to action
+  button:
+      subscribe: Subscribe
+      placeholder: Leave your email
   people:
       title: title of the people that help us
       p: the paragraph for people
