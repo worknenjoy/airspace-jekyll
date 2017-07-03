@@ -23,9 +23,8 @@ languages: ["en", "br"]
 # Site settings
 title: Work n Enjoy
 subtitle: "A Startup that create solutions for remote working"
-url: "http://worknenjoy.github.io/" # the base hostname & protocol for your site
+url: "http://worknenjoy.com" # the base hostname & protocol for your site
 baseurl: "" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
