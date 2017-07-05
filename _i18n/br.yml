@@ -10,45 +10,45 @@ global:
     text: E está mudando de forma rápida e acelerada! A maneira que as pessoas querem trabalhar já não é mais a mesma. Autonomia e flexibilidade são as palavras do futuro. Você quer trabalhar nos seus próprios termos, quando você quiser, de onde você quiser, no seu próprio ritmo. Você quer que as coisas sejam simples e ágeis.
     desc: Você quer liberdade! (Quem não quer, não é mesmo?)
   work:
-    title: we want to build for nomads and remote workers
-    p: For content writers, developers and service providers
+    title: Trabalhadores digitais independentes precisam de ferramentas específicas
+    p: Work'n Enjoy entende as necessidades dos freelancers digitais e quer ajudar fornecendo as ferramentas, orientações e apoio para surfar esta onda.
   service:
-    title: we want to change the work
-    p: by doing stuff that impacts the economy and the way you receive money
+    title: Nós queremos mudar a forma como as pessoas trabalham
+    p: fazendo coisas que impactam a economia e a maneira que você recebe dinheiro
   features:
     - icon: ion-coffee
-      title: work anywhere
-      p: from coffee shops to everywhere
+      title: trabalhe de qualquer lugar
+      p: casa? café? parque?
     - icon: ion-compass
-      title: be ready to be anywhere
-      p: we have tools for you approve
+      title: siga a tendência
+      p: nós damos as direções
     - icon: ion-image
-      title: give your image to the world
-      p: make your image and sell your services
+      title: aprimore sua imagem
+      p: mostre seus talentos ao mundo
     - icon: ion-bug
-      title: fix issue
-      p: working and making your fix
+      title: conserte pequenos bugs
+      p: tarefas pequenas, sem grandes compromissos
     - icon: ion-headphone
-      title: work quietly
-      p: working directions
+      title: seja independente
+      p: seu trabalho, suas regras
     - icon: ion-leaf
-      title: be part of the nature
-      p: working and enjoy from anywhere
+      title: aproveite a natureza
+      p: trabalho não é tudo, saia, explore
     - icon: ion-planet
-      title: be part of the planet
-      p: explore the planet
+      title: ao infinito e além
+      p: fora da caixa não é suficiente
     - icon: ion-earth
-      title: make the change with others
-      p: working remotly teams and be collaborative
+      title: seja parte da mudança
+      p: vamos quebrar o paradigma do trabalho juntos
   call-to-action:
-      title: calling the action
-      p: calling the paragraph to action
+      title: Vamos juntos!
+      p: Deixe seu e-mail para receber atualizações e novidades (nós não enviamos spam, claro)
   button:
-      subscribe: Subscribe
-      placeholder: Leave your email
+      subscribe: Inscrever-me
+      placeholder: O meu e-mail é
   people:
-      title: title of the people that help us
-      p: the paragraph for people
+      title: "O futuro é o que eu crio hoje. Todos os dias"
+      p: "'- Chris Brogan'"
   footer:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
