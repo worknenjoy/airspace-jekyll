@@ -3,12 +3,12 @@ global:
   one-country: Português
   other-country: Inglês
   fork: Fork me on GitHub
-  title: work n enjoy
-  tagline: empreendedorismo digital
+  title: work'n enjoy
+  tagline: para empreendedores digitais
   about:
-    intro: we give the right tools for the nomad nerds and independent writers
-    text: guidances and support to work in digital life
-    desc: the office is the world
+    intro: O mundo está mudando
+    text: E está mudando de forma rápida e acelerada! A maneira que as pessoas querem trabalhar já não é mais a mesma. Autonomia e flexibilidade são as palavras do futuro. Você quer trabalhar nos seus próprios termos, quando você quiser, de onde você quiser, no seu próprio ritmo. Você quer que as coisas sejam simples e ágeis.
+    desc: Você quer liberdade! (Quem não quer, não é mesmo?)
   work:
     title: we want to build for nomads and remote workers
     p: For content writers, developers and service providers
