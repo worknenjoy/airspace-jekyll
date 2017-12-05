@@ -51,3 +51,7 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+#slider .block h1 {
+ display: none;
+}
