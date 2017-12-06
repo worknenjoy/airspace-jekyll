@@ -53,5 +53,12 @@
 }
 
 #slider .block h1 {
- display: none;
+ visibility: hidden;
+ height: 1px;
+ padding: 0;
+ margin: 0;
+}
+
+.block p {
+    margin: 0 0 41px;
 }
