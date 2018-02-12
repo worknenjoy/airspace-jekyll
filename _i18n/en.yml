@@ -1,17 +1,22 @@
 global:
+  home: Home
+  companies: Companies
+  blog: Blog
+  services: Services
+  contact: Contact
   lang: Choose your language
   one-country: Português
   other-country: English
   fork: Fork me on GitHub
-  title: work'n enjoy
+  title: "work'n enjoy"
   tagline: for digital entrepreneurs
   about:
-    intro: The world is changing
+    intro: Work on demmand
     text: "And it's changing at a fast and accelerated rate! The way people want to work today is no longer the same. Autonomy and flexibility are the words for the future. <br/>You want to work on your grounds, whenever you want, from wherever you want, at your own pace. You want things to be simple and agile."
     desc: "You want freedom! (Who doesn't, right?)"
   work:
     title: Independent digital workers need specific tools
-    p: Work'n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave.
+    p: "Work n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave."
   service:
     title: We want to change the way people work
     p: by doing stuff that impacts the economy and the way you receive money
@@ -39,7 +44,7 @@ global:
       p: out of the box is not enough
     - icon: ion-earth
       title: be part of the change
-      p: let's break the work paradigm together
+      p: "let's break the work paradigm together"
   call-to-action:
       title: Let's go together!
       p: Leave your e-mail to receive news and updates (we don't send spam, of course)
@@ -53,3 +58,34 @@ global:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Developed by
     ending: experience as a service
+
+work:
+  call:
+    title: Trabalhos que realizamos para empresas
+    desc: Descrição dos trabalhos que realizamos para empresas
+  everything: Todos
+  branding: Sua marca
+  websites: Websites
+  seo: SEO
+  development: desenvolvimento
+  content-marketing: Marketing de conteúdo
+
+  branding:
+    title: Marca
+    text: texto da marca
+  websites:
+    title: Sites
+    text: Texto da marca
+  seo:
+    title: Otimização para buscas
+    text: Com os sites editáveis, você pode contratar melhorias de SEO de forma dinâmica
+  development:
+    title: Desenvolvimento de sistemas
+    text: Desenvolvimento distribuído
+  content-marketing:
+    title: Marketing de conteúdo
+    text: Serviços de conteúdo para o site
+  final:
+    title: Faça um teste conosco
+    text: Veja como podemos revolucionar seu negócio
+    button: Fale conosco
