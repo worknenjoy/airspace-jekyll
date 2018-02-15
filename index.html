@@ -93,7 +93,6 @@ permalink: /
     </div>
   </div>
 </section>
-
 <!-- Service Start -->
 <section id="service">
   <div class="container">
@@ -119,44 +118,51 @@ permalink: /
 <section id="testimonial">
   <div class="container">
     <div class="row">
-      <div class="section-title text-center">
-        <h2>{% t global.people.title %}</h2>
-        <p>{% t global.people.p %}</p>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-md-6">
         <div class="block">
           <ul class="counter-box clearfix">
             <li>
               <div class="block">
                 <i class="ion-ios-chatboxes-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <h4 class="counter">1000</h4>
+                <span>{% t global.counters.tasks %}</span>
               </div>
             </li>
             <li>
               <div class="block">
-                <i class="ion-ios-glasses-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <i class="ion-coffee"></i>
+                <h4 class="counter">200</h4>
+                <span>{% t global.counters.coffee %}</span>
               </div>
             </li>
             <li>
               <div class="block">
-                <i class="ion-ios-compose-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <i class="ion-card"></i>
+                <h4 class="counter"> 4500</h4>
+                <span>{% t global.counters.transactions %}</span>
               </div>
             </li>
             <li>
               <div class="block">
-                <i class="ion-ios-timer-outline"></i>
-                <h4 class="counter">20000</h4>
-                <span>Cups Of Coffee</span>
+                <i class="ion-ios-people-outline"></i>
+                <h4 class="counter">500</h4>
+                <span>{% t global.counters.companies %}</span>
               </div>
             </li>
-
+            <li>
+              <div class="block">
+                <i class="ion-cube"></i>
+                <h4 class="counter">5</h4>
+                <span>{% t global.counters.companies %}</span>
+              </div>
+            </li>
+            <li>
+              <div class="block">
+                <i class="ion-ios-people-outline"></i>
+                <h4 class="counter">20</h4>
+                <span>{% t global.counters.contracts %}</span>
+              </div>
+            </li>
           </ul>
         </div>
       </div>
@@ -165,12 +171,13 @@ permalink: /
           <div id="testimonial-slider" class="owl-carousel">
             <div>
                 <img src="img/cotation.png" alt="IMG">
-                <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+                <p>{% t global.testimonials.text %}</p>
                 <div class="user">
-                  <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Rose Ray</span> CEO-Themefisher</p>
+                  <img src="img/item-img1.png" alt="Pepole">
+                  <p><span>{% t global.testimonials.person %}</span> {% t global.testimonials.role %}</p>
                 </div>
             </div>
+            <!--
             <div>
               <img src="img/cotation.png" alt="IMG">
                 <p>"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
@@ -196,8 +203,17 @@ permalink: /
                 </div>
             </div>
           </div>
+          -->
         </div>
       </div>
     </div>
   </div>
 </section>
+<div class="container">
+  <div class="row">
+    <div class="section-title text-center">
+      <h2>{% t global.people.title %}</h2>
+      <p>{% t global.people.p %}</p>
+    </div>
+  </div>
+</div>

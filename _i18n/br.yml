@@ -65,11 +65,12 @@ work:
     desc: Descrição dos trabalhos que realizamos para empresas
 
   everything: Todos
-  branding: Sua marca
-  websites: Websites
-  seo: SEO
-  development: desenvolvimento
-  content-marketing: Marketing de conteúdo
+  sections:
+    branding: Sua marca
+    websites: Websites
+    seo: SEO
+    development: desenvolvimento
+    content-marketing: Marketing de conteúdo
 
   branding:
     title: Marca

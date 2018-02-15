@@ -59,16 +59,52 @@ global:
     theme: Copyright &copy; Design &amp; Developed by
     ending: experience as a service
 
+  counters:
+    tasks: Tarefas resolvidas
+    coffee: Cafés tomados
+    transactions: Reais em transações
+    companies: Empresas
+    contracts: Acordos de trabalho
+
+  testimonials:
+    person: "Amanda Pedroso"
+    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
+    role: Desenvolvedora
+
+contact:
+  title: Deixe-nos seu recado
+  text: Deixe-nos suas críticas e sugestões
+  mail: E-mail
+  subject: Subject
+  message: Message
+  address:
+    title: Stop By For A visit
+    street: North Main Street,Brooklyn Australia
+    mail: "Email: contact@mail.com"
+    phone: "Phone"
+    map: We Also Count In Google Map
+  finalmessage: We design delightful digital experiences.
+  finaltext: Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.
+  finalaction: Tell Us Your Story
+
+
+
+
+
+
+
+
 work:
   call:
     title: Trabalhos que realizamos para empresas
     desc: Descrição dos trabalhos que realizamos para empresas
-  everything: Todos
-  branding: Sua marca
-  websites: Websites
-  seo: SEO
-  development: desenvolvimento
-  content-marketing: Marketing de conteúdo
+  sections:
+    everything: Todos
+    branding: Sua marca
+    websites: Websites
+    seo: SEO
+    development: desenvolvimento
+    content: Marketing de conteúdo
 
   branding:
     title: Marca
@@ -82,7 +118,7 @@ work:
   development:
     title: Desenvolvimento de sistemas
     text: Desenvolvimento distribuído
-  content-marketing:
+  content:
     title: Marketing de conteúdo
     text: Serviços de conteúdo para o site
   final:
