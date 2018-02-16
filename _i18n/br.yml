@@ -11,43 +11,43 @@ global:
   title: "work'n enjoy"
   tagline: para empreendedores digitais
   about:
-    intro: O mundo está mudando
-    text: E está mudando de forma rápida e acelerada! A maneira que as pessoas querem trabalhar já não é mais a mesma. Autonomia e flexibilidade são as palavras do futuro. Você quer trabalhar nos seus próprios termos, quando você quiser, de onde você quiser, no seu próprio ritmo. Você quer que as coisas sejam simples e ágeis.
-    desc: Você quer liberdade! (Quem não quer, não é mesmo?)
+    intro: O marketplace de trabalho
+    text: Oferecemos um marketplace de serviços para desenvolvimento e conteúdo para plataformas digitais de qualquer lugar do mundo
+    desc: Podemos ajudar a você construir o seu negócio e tirá-lo do papel e das barreiras burocráticas
   work:
-    title: Trabalhadores digitais independentes precisam de ferramentas específicas
-    p: "Work 'n Enjoy entende as necessidades dos freelancers digitais e quer ajudar fornecendo as ferramentas, orientações e apoio para surfar esta onda."
+    title: Para freelancers que desejam trabalhar independente
+    p: "Uma plataforma para freelancers iniciantes e avançados, onde a definição de pronto é entendida"
   service:
-    title: Nós queremos mudar a forma como as pessoas trabalham
-    p: fazendo coisas que impactam a economia e a maneira que você recebe dinheiro
+    title: Queremos diminuir as barreiras para novos negócios digitais
+    p: Atuando em startups na arte de fazer acontecer, com profissionais e equipes distribuidas
   features:
     - icon: ion-coffee
-      title: trabalhe de qualquer lugar
-      p: casa? café? parque?
+      title: Freelancers de todos os níveis
+      p: Uma comunidade inteira de desenvolvedores iniciantes e avançados que querem mostrar sua capacidade agregando em diferentes projetos
     - icon: ion-compass
-      title: siga a tendência
-      p: nós damos as direções
+      title: No seu tempo
+      p: Tanto empresas quanto profissionais trabalham de forma indepenente seguindo processos ágeis de forma remota
     - icon: ion-image
-      title: aprimore sua imagem
-      p: mostre seus talentos ao mundo
+      title: A imagem da sua empresa
+      p: Ajudamos a criar um ambiente colaborativo de desenvolvimento da sua empresa para chegar aos profissinais com o perfil adequado
     - icon: ion-bug
-      title: conserte pequenos bugs
-      p: tarefas pequenas, sem grandes compromissos
+      title: Trabalhamos sob demanda
+      p: Você resolve os problemas e atende novas demandas e paga por serviço prestado e não necessida mais de alguém dedicado
     - icon: ion-headphone
-      title: seja independente
-      p: seu trabalho, suas regras
-    - icon: ion-leaf
-      title: aproveite a natureza
-      p: trabalho não é tudo, saia, explore
+      title: Trabalho independente
+      p: Você pode trabalhar em diferentes projetos com diferentes tecnologias, aprendendo diferentes contextos
+    - icon: ion-card
+      title: Pagamento facilitado
+      p: Os pagamentos para os trabalhos são facilitados e baseado em contratos inteligentes para facilitar na definição de requisitos
     - icon: ion-planet
-      title: ao infinito e além
-      p: fora da caixa não é suficiente
+      title: Contribua com idéias
+      p: Freelancers podem contribuir com novas idéias para projetos e empresas podem inovar com novos pontos de vista
     - icon: ion-earth
-      title: seja parte da mudança
-      p: vamos quebrar o paradigma do trabalho juntos
+      title: Nômades digitais
+      p: Ajudamos a abrir seu negócio em qualquer lugar do mundo e a você freelancer a receber de onde estiver
   call-to-action:
-      title: Vamos juntos!
-      p: Deixe seu e-mail para receber atualizações e novidades (nós não enviamos spam, claro)
+      title: Quer fazer parte deste time mundial? Seja você designer, webdesigner, desenvolvedor, especialista em SEO, tradutor, marketing de conteúdo, receba propostas de nossos clientes!
+      p: Deixe seu e-mail para novos trabalhos
   button:
       subscribe: Inscrever-me
       placeholder: O meu e-mail é
@@ -56,13 +56,13 @@ global:
       p: "'- Chris Brogan'"
   footer:
     copy: All rights reserved
-    theme: Copyright &copy; Design &amp; Developed by
-    ending: experience as a service
+    theme: Copyright &copy; Design &amp; Desenvolvido por
+    ending: Experiência como serviço
 
 work:
   call:
     title: Trabalhos que realizamos para empresas
-    desc: Descrição dos trabalhos que realizamos para empresas
+    desc: Como podemos ajudar no seu negócio digital
 
   everything: Todos
   sections:
@@ -74,20 +74,48 @@ work:
 
   branding:
     title: Marca
-    text: texto da marca
+    text: Colocamos você com as melhores ferramentas digitais para construir sua marca de acordo com suas necessidades
   websites:
     title: Sites
-    text: Texto da marca
+    text: Você pode criar um site gratuito e contratar serviços para alavancá-lo de acordo com seu negócio
   seo:
     title: Otimização para buscas
-    text: Com os sites editáveis, você pode contratar melhorias de SEO de forma dinâmica
+    text: Com o conteúdo distribuido você pode contratar melhorias de SEO
   development:
     title: Desenvolvimento de sistemas
-    text: Desenvolvimento distribuído
+    text: Desenvolvemos sistemas e ferramentas de forma distribuída usando o scrum e um fluxo de trabalho consolidado em várias empresas mundiais
   content-marketing:
     title: Marketing de conteúdo
-    text: Serviços de conteúdo para o site
+    text: Conteúdo de qualidade para estimular sua relevância no mercado e agregar valor ao negócio
   final:
     title: Faça um teste conosco
     text: Veja como podemos revolucionar seu negócio
     button: Fale conosco
+
+  counters:
+    tasks: Tarefas resolvidas
+    coffee: Cafés tomados
+    transactions: Reais em transações
+    companies: Empresas
+    contracts: Acordos de trabalho
+
+  testimonials:
+    person: "Amanda Pedroso"
+    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
+    role: Desenvolvedora
+
+contact:
+  title: Deixe-nos seu recado
+  text: E nos diga como podemos te ajudar
+  mail: E-mail
+  subject: Subject
+  message: Message
+  address:
+    title: Nosso enderço
+    street: Borgergade, 26, 1300K, Copenhagen, Denmark
+    mail: "Email: tarefas@gitpay.me"
+    phone: "Telefone"
+    map: Onde estamos
+  finalmessage: Queremos melhorar a experiência de produtos e de trabalho
+  finaltext: Veja a forma como estamos trabalhando
+  finalaction: Veja o que andamos falando a respeito

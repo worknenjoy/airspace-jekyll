@@ -27,6 +27,12 @@ baseurl: "" # Set this value to "" if you want your site to be root
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
+timezone:      null
+show_drafts: true
+limit_posts: 0
+future:      false
+unpublished: true
+
 # Build settings
 markdown: kramdown
 
