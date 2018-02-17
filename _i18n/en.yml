@@ -65,6 +65,7 @@ global:
     transactions: Reais em transações
     companies: Empresas
     contracts: Acordos de trabalho
+    freelancers: Freelancers
 
   testimonials:
     person: "Amanda Pedroso"
