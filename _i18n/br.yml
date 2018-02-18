@@ -66,15 +66,15 @@ work:
 
   everything: Todos
   sections:
-    branding: Sua marca
+    branding: Design
     websites: Websites
     seo: SEO
-    development: desenvolvimento
+    development: Desenvolvimento
     content-marketing: Marketing de conteúdo
 
   branding:
-    title: Marca
-    text: Colocamos você com as melhores ferramentas digitais para construir sua marca de acordo com suas necessidades
+    title: Design
+    text: Colocamos você com profissinais de design prontos para fortalecer sua marca e experiência
   websites:
     title: Sites
     text: Você pode criar um site gratuito e contratar serviços para alavancá-lo de acordo com seu negócio
@@ -83,7 +83,7 @@ work:
     text: Com o conteúdo distribuido você pode contratar melhorias de SEO
   development:
     title: Desenvolvimento de sistemas
-    text: Desenvolvemos sistemas e ferramentas de forma distribuída usando o scrum e um fluxo de trabalho consolidado em várias empresas mundiais
+    text: Desenvolvemos sistemas e ferramentas de forma distribuída e ágil
   content-marketing:
     title: Marketing de conteúdo
     text: Conteúdo de qualidade para estimular sua relevância no mercado e agregar valor ao negócio
