@@ -9,11 +9,11 @@ global:
   other-country: English
   fork: Fork me on GitHub
   title: "work'n enjoy"
-  tagline: for digital entrepreneurs
+  tagline: Digital entrepreneurship
   about:
     intro: A marketplace of work
-    text: "We offer a marketplace of services for development and content to digital platforms from anywhere in the world"
-    desc: "We can help you to build your business and make it reality without suffer with burocratic barriers"
+    text: "We offer a marketplace of services for development and content for digital platforms from anywhere in the world"
+    desc: "We can help you to build your business and make it real, without suffering with burocratic barriers"
   work:
     title: To freelancers that wish to work independently
     p: "A platform to beginners and advanced freelancers, working together, and the definition of done for the client is real"
@@ -87,40 +87,40 @@ work:
 
   branding:
     title: Design
-    text: We getting in touch with desing professionals ready to make your brand stronger
+    text: We get in touch with desingers ready to make your brand stronger
   websites:
     title: Sites
-    text: We can create a free website and buy for services that will rocket your business
+    text: We create a free website that will rock your business
   seo:
     title: Search engine optimization
-    text: Get SEO services direct in the platform
+    text: Get SEO services directly in the platform
 
   development:
     title: Development
-    text: We develop new systems and tools for your company in agile way
+    text: We develop new systems and tools for your company in an agile manner
   content-marketing:
     title: Content marketing
     text: Quality content to improve your relevance and add value to your business
   final:
-    title: Make a test with us
+    title: Do a test with us!
     text: See how we can impact your business
-    button: Send a message to us
+    button: Send us a message
 
 contact:
-  title: How may I help you?
+  title: How can I help you?
   text: Leave your impressions
   mail: E-mail
-  subject: Assunto
-  message: Mensagem
+  subject: Subject
+  message: Submit
   address:
-    title: Make us a visit
+    title: Visit us
     street: Borgergade, 26, 1300K, Copenhagen, Denmark
     mail: "Email: contact@worknenjoy"
     phone: "Phone: +4526479776"
     map: On the map
-  finalmessage: We have the remote work in our main concept
-  finaltext: We work and enjoy whatever we are, wishin the freedom to be where we want
-  finalaction: See what we are doing around
+  finalmessage: We have the freedom of remote work as our main concept
+  finaltext: We work and enjoy wherever we are!
+  finalaction: Check out what we are doing
   
 blog:
   title: Be in touch
