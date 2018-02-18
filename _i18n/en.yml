@@ -107,8 +107,8 @@ work:
     button: Send a message to us
 
 contact:
-  title: Leave your help
-  text: Leave your suggestions
+  title: How may I help you?
+  text: Leave your impressions
   mail: E-mail
   subject: Assunto
   message: Mensagem
