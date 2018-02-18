@@ -11,43 +11,43 @@ global:
   title: "work'n enjoy"
   tagline: for digital entrepreneurs
   about:
-    intro: Work on demmand
-    text: "And it's changing at a fast and accelerated rate! The way people want to work today is no longer the same. Autonomy and flexibility are the words for the future. <br/>You want to work on your grounds, whenever you want, from wherever you want, at your own pace. You want things to be simple and agile."
-    desc: "You want freedom! (Who doesn't, right?)"
+    intro: A marketplace of work
+    text: "We offer a marketplace of services for development and content to digital platforms from anywhere in the world"
+    desc: "We can help you to build your business and make it reality without suffer with burocratic barriers"
   work:
-    title: Independent digital workers need specific tools
-    p: "Work n Enjoy understands the needs of the digital freelancer and wants to help by providing the tools, guidances and support for surfing this wave."
+    title: To freelancers that wish to work independently
+    p: "A platform to beginners and advanced freelancers, working together, and the definition of done for the client is real"
   service:
-    title: We want to change the way people work
-    p: by doing stuff that impacts the economy and the way you receive money
+    title: We want to make easier for you to build your digital business
+    p: by supporting startups to get the things done, with professionals and distributed teams
   features:
     - icon: ion-coffee
-      title: work from anywhere
-      p: home? café? park?
+      title: Freelancers from any level
+      p: A community of beginners and advanced developers that want to show their capacity working in a wide range of projects
     - icon: ion-compass
-      title: follow the trend
-      p: we give you the directions
+      title: Take your time
+      p: Companies and professionals work independently with agile proccess remotely
     - icon: ion-image
-      title: enhance your image
-      p: show your talents to the world
+      title: Enhance your image
+      p: We help to create a collaborative development to attract the right professionals for you 
     - icon: ion-bug
-      title: fix small bugs
-      p: get small tasks, no strings attached
+      title: We work on demmand
+      p: You fix the issues of your project on demmand and pay for issues solved instead to have someone dedicated all the time
     - icon: ion-headphone
-      title: be independent
-      p: your work, your rules
-    - icon: ion-leaf
-      title: enjoy nature
-      p: work is not all, go outside, go explore
+      title: Be independent
+      p: You wil work in different projects with different technologies and you can continously lear and improve your skills
+    - icon: ion-card
+      title: Easy payment
+      p: The payment are based on smart contracts that makes easier work based on the real requirements
     - icon: ion-planet
-      title: to infinity and beyond
-      p: out of the box is not enough
+      title: Contribute with new ideas
+      p: Freelancers can contribute with new ideas in projects and companies with new point of view
     - icon: ion-earth
-      title: be part of the change
-      p: "let's break the work paradigm together"
+      title: Digital nomads
+      p: "We help to open business anywhere in the world and for the freelancers to be paid as well"
   call-to-action:
-      title: Let's go together!
-      p: Leave your e-mail to receive news and updates (we don't send spam, of course)
+      title: "To freelancers: you want to be part of this worldwide team? If you're designer, webdesigner, developer, SEO specialist, translator, content marketing, subscribe and receive job proposals from our clients!"
+      p: Leave your e-mail to receive proposals
   button:
       subscribe: Subscribe
       placeholder: Leave your email
@@ -60,33 +60,68 @@ global:
     ending: experience as a service
 
   counters:
-    tasks: Tarefas resolvidas
-    coffee: Cafés tomados
-    transactions: Reais em transações
-    companies: Empresas
-    contracts: Acordos de trabalho
+    tasks: Tasks solved
+    coffee: Coffees taken
+    transactions: In BRL
+    companies: Companies
+    contracts: Work agreements
     freelancers: Freelancers
 
   testimonials:
     person: "Amanda Pedroso"
-    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
-    role: Desenvolvedora
+    text: "The way of work is fluid and with cooperation by the client. It was my first freelancer job, and I got a constructive feedback to improve in next jobs. I got completely satisfied to work in this collaborative way and this bring a lot of knowledge"
+    role: Developer
+
+work:
+  call:
+    title: Our work for companies
+    desc: How we can help with your digital business
+
+  everything: Everything
+  sections:
+    branding: Design
+    websites: Websites
+    seo: SEO
+    development: Development
+    content-marketing: Content marketing
+
+  branding:
+    title: Design
+    text: We getting in touch with desing professionals ready to make your brand stronger
+  websites:
+    title: Sites
+    text: We can create a free website and buy for services that will rocket your business
+  seo:
+    title: Search engine optimization
+    text: Get SEO services direct in the platform
+
+  development:
+    title: Development
+    text: We develop new systems and tools for your company in agile way
+  content-marketing:
+    title: Content marketing
+    text: Quality content to improve your relevance and add value to your business
+  final:
+    title: Make a test with us
+    text: See how we can impact your business
+    button: Send a message to us
 
 contact:
-  title: Deixe-nos seu recado
-  text: Deixe-nos suas críticas e sugestões
+  title: Leave your help
+  text: Leave your suggestions
   mail: E-mail
-  subject: Subject
-  message: Message
+  subject: Assunto
+  message: Mensagem
   address:
-    title: Stop By For A visit
-    street: North Main Street,Brooklyn Australia
-    mail: "Email: contact@mail.com"
+    title: Make us a visit
+    street: Borgergade, 26, 1300K, Copenhagen, Denmark
+    mail: "Email: contact@worknenjoy"
     phone: "Phone"
-    map: We Also Count In Google Map
-  finalmessage: We design delightful digital experiences.
-  finaltext: Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.
-  finalaction: Tell Us Your Story
+    map: On the map
+  finalmessage: We have the remote work in our main concept
+  finaltext: We work and enjoy whatever we are, wishin the freedom to be where we want
+  finalaction: See what we are doing around
+
 
 
 
