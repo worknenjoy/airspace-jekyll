@@ -15,8 +15,8 @@ global:
     text: "We offer a marketplace of services for development and content for digital platforms from anywhere in the world."
     desc: "We can help you to build your business and make it real, without suffering with burocratic barriers."
   work:
-    title: To freelancers that wish to work independently
-    p: "A platform to beginners and advanced freelancers, working together, and the definition of done for the client is real"
+    title: Do you want to work independently?
+    p: "The platoform is designed for all freelancers, from newbies to pros."
   service:
     title: We want to make easier for you to build your digital business
     p: by supporting startups to get the things done, with professionals and distributed teams
@@ -69,7 +69,7 @@ global:
 
   testimonials:
     person: "Amanda Pedroso"
-    text: "The way of work is fluid and with cooperation by the client. It was my first freelancer job, and I got a constructive feedback to improve in next jobs. I got completely satisfied to work in this collaborative way and this bring a lot of knowledge"
+    text: "The work is fluid and very collaborative with the client. It was my first freelance job, and I got a constructive feedback in the end, in order to improve my work next time. I'm very satisfied to work in this collaborative way. It brought me a lot of knowledge."
     role: Developer
 
 work:
