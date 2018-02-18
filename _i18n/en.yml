@@ -11,9 +11,9 @@ global:
   title: "work'n enjoy"
   tagline: Digital entrepreneurship
   about:
-    intro: A marketplace of work
-    text: "We offer a marketplace of services for development and content for digital platforms from anywhere in the world"
-    desc: "We can help you to build your business and make it real, without suffering with burocratic barriers"
+    intro: A virtual workplace
+    text: "We offer a marketplace of services for development and content for digital platforms from anywhere in the world."
+    desc: "We can help you to build your business and make it real, without suffering with burocratic barriers."
   work:
     title: To freelancers that wish to work independently
     p: "A platform to beginners and advanced freelancers, working together, and the definition of done for the client is real"
@@ -44,10 +44,10 @@ global:
       p: Freelancers can contribute with new ideas in projects and companies with new points of view
     - icon: ion-earth
       title: Digital nomads
-      p: "We help to open business anywhere in the world and for the freelancers to be paid as well"
+      p: "We help you to open your business anywhere in the world and for the freelancers to be paid as well"
   call-to-action:
-      title: "To freelancers: do you want to be part of this worldwide team? If you're designer, webdesigner, developer, SEO specialist, translator, content marketing, subscribe and receive job proposals from our clients!"
-      p: Leave your e-mail to receive proposals
+      title: "Are you a freelancer? Or wish to become one?"
+      p: Let's be part of this worldwide team! You may be a designer, webdesigner, developer, translator, content marketing or SEO specialist etc. subscribe and receive job proposals from our clients!
   button:
       subscribe: Subscribe
       placeholder: Leave your email
