@@ -22,7 +22,8 @@ global:
     p: by supporting startups to get the things done, with professionals and distributed teams
   features:
     - icon: ion-coffee
-      title: Freelancers from any level
+      title: 
+      ers of any level
       p: A community of beginners and advanced developers that want to show their capacity working in a wide range of projects
     - icon: ion-compass
       title: Take your time
@@ -41,7 +42,7 @@ global:
       p: The payment are based on smart contracts that makes easier work based on the real requirements
     - icon: ion-planet
       title: Contribute with new ideas
-      p: Freelancers can contribute with new ideas in projects and companies with new point of view
+      p: Freelancers can contribute with new ideas in projects and companies with new points of view
     - icon: ion-earth
       title: Digital nomads
       p: "We help to open business anywhere in the world and for the freelancers to be paid as well"
