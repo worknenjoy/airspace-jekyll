@@ -16,7 +16,7 @@ global:
     desc: Podemos ajudar a você construir o seu negócio e tirá-lo do papel e das barreiras burocráticas
   work:
     title: Para freelancers que desejam trabalhar independente
-    p: "Uma plataforma para freelancers iniciantes e avançados, onde a definição de pronto é entendida"
+    p: "Uma plataforma para freelancers iniciantes e avançados, trabalhando de forma colaborativa, e a definição de pronto para o cliente é real"
   service:
     title: Queremos diminuir as barreiras para novos negócios digitais
     p: Atuando em startups na arte de fazer acontecer, com profissionais e equipes distribuidas
@@ -32,7 +32,7 @@ global:
       p: Ajudamos a criar um ambiente colaborativo de desenvolvimento da sua empresa para chegar aos profissinais com o perfil adequado
     - icon: ion-bug
       title: Trabalhamos sob demanda
-      p: Você resolve os problemas e atende novas demandas e paga por serviço prestado e não necessida mais de alguém dedicado
+      p: Você resolve os problemas sob demanda e paga por serviço prestado e não necessida mais de alguém dedicado
     - icon: ion-headphone
       title: Trabalho independente
       p: Você pode trabalhar em diferentes projetos com diferentes tecnologias, aprendendo diferentes contextos
@@ -46,7 +46,7 @@ global:
       title: Nômades digitais
       p: Ajudamos a abrir seu negócio em qualquer lugar do mundo e a você freelancer a receber de onde estiver
   call-to-action:
-      title: "Para freelancers: Quer fazer parte deste time mundial? Seja você designer, webdesigner, desenvolvedor, especialista em SEO, tradutor, marketing de conteúdo, receba propostas de nossos clientes!"
+      title: "Para freelancers: Quer fazer parte deste time mundial? Seja você designer, webdesigner, desenvolvedor, especialista em SEO, tradutor, marketing de conteúdo, se inscreva e receba propostas de nossos clientes!"
       p: Deixe seu e-mail para novos trabalhos
   button:
       subscribe: Inscrever-me
@@ -58,6 +58,19 @@ global:
     copy: All rights reserved
     theme: Copyright &copy; Design &amp; Desenvolvido por
     ending: Experiência como serviço
+    
+  counters:
+    tasks: Tarefas resolvidas
+    coffee: Cafés tomados
+    transactions: Reais em transações
+    companies: Empresas
+    contracts: Acordos de trabalho
+    freelancers: Freelancers
+
+  testimonials:
+    person: "Amanda Pedroso"
+    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
+    role: Desenvolvedora
 
 work:
   call:
@@ -80,7 +93,8 @@ work:
     text: Você pode criar um site gratuito e contratar serviços para alavancá-lo de acordo com seu negócio
   seo:
     title: Otimização para buscas
-    text: Com o conteúdo distribuido você pode contratar melhorias de SEO
+    text: Contrate melhorias de SEO que serão diretamente dentro da plataforma
+
   development:
     title: Desenvolvimento de sistemas
     text: Desenvolvemos sistemas e ferramentas de forma distribuída e ágil
@@ -91,19 +105,6 @@ work:
     title: Faça um teste conosco
     text: Veja como podemos revolucionar seu negócio
     button: Fale conosco
-
-  counters:
-    tasks: Tarefas resolvidas
-    coffee: Cafés tomados
-    transactions: Reais em transações
-    companies: Empresas
-    contracts: Acordos de trabalho
-    freelancers: Freelancers
-
-  testimonials:
-    person: "Amanda Pedroso"
-    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
-    role: Desenvolvedora
 
 contact:
   title: Deixe-nos seu recado
@@ -118,6 +119,5 @@ contact:
     phone: "Telefone"
     map: Onde estamos
   finalmessage: Temos como base do negócio o trabalho remoto
-  finaltext: Trabalhamos e desfrutamos de onde estivermos, com a liberdade de ir e vir
+  finaltext: Trabalhamos e desfrutamos de onde estivermos, desejando a liberdade total de ir e vir
   finalaction: Veja o que estamos aprontando por aí
-  text: Conteúdo de qualidade para estimular sua relevância no mercado e agregar valor ao negócio
