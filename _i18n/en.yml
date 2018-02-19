@@ -18,8 +18,8 @@ global:
     title: Do you want to work independently?
     p: "The platoform is designed for all freelancers, from newbies to pros."
   service:
-    title: We want to make easier for you to build your digital business
-    p: by supporting startups to get the things done, with professionals and distributed teams
+    title: We want to help you build your digital business
+    p: by supporting startups and professionals
   features:
     - icon: ion-coffee
       title: Freelancers of any level
