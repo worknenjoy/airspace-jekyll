@@ -75,7 +75,7 @@ global:
 work:
   call:
     title: Our work for companies
-    desc: How we can help with your digital business
+    desc: How we can help you grow your digital business
 
   everything: Everything
   sections:
@@ -108,12 +108,12 @@ work:
 
 contact:
   title: How can I help you?
-  text: Leave your impressions
+  text: Leave your message
   mail: E-mail
   subject: Subject
   message: Submit
   address:
-    title: Visit us
+    title: Where we are located
     street: Borgergade, 26, 1300K, Copenhagen, Denmark
     mail: "Email: contact@worknenjoy"
     phone: "Phone: +4526479776"
