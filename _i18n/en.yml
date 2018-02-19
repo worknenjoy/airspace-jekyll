@@ -22,29 +22,29 @@ global:
     p: by supporting startups to get the things done, with professionals and distributed teams
   features:
     - icon: ion-coffee
-      title: freelancers of any level
-      p: A community of beginners and advanced developers that want to show their capacity working in a wide range of projects
+      title: Freelancers of any level
+      p: A community of beginners and advanced professionals who want to show their abilities working in a wide range of projects
     - icon: ion-compass
       title: Take your time
-      p: Companies and professionals work independently with agile proccess remotely
+      p: Companies and professionals work independently and remotely with agile proccess 
     - icon: ion-image
       title: Enhance your image
-      p: We help to create a collaborative development to attract the right professionals for you 
+      p: Power up your brand with the help of the right professionals
     - icon: ion-bug
-      title: We work on demmand
-      p: You fix the issues of your project on demmand and pay for issues solved instead to have someone dedicated all the time
+      title: We work on demand
+      p: We improve your project and fix the bugs on demand, and you pay for issues solved
     - icon: ion-headphone
       title: Be independent
-      p: You wil work in different projects with different technologies and you can continously learn and improve your skills
+      p: You wil work in different projects with different technologies, so you can continously learn and improve your skills
     - icon: ion-card
       title: Easy payment
-      p: The payment are based on smart contracts that makes easier work based on the real requirements
+      p: The payments are based on smart contracts that facilitate the work, based on real requirements
     - icon: ion-planet
-      title: Contribute with new ideas
-      p: Freelancers can contribute with new ideas in projects and companies with new points of view
+      title: Share your thoughts
+      p: Freelancers can contribute with new ideas within projects and companies
     - icon: ion-earth
-      title: Digital nomads
-      p: "We help you to open your business anywhere in the world and for the freelancers to be paid as well"
+      title: Become a digital nomad
+      p: "We help you to open your business anywhere in the world and work remotely"
   call-to-action:
       title: "Are you a freelancer? Or wish to become one?"
       p: Let's be part of this worldwide team! You may be a designer, webdesigner, developer, translator, content marketing or SEO specialist etc. Subscribe to our list below, and receive job proposals from our clients!
