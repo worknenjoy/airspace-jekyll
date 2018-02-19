@@ -6,56 +6,56 @@ global:
   contact: Contato
   lang: Escolha seu idioma
   one-country: Português
-  other-country: Inglês
+  other-country: English
   fork: Fork me on GitHub
   title: "work'n enjoy"
-  tagline: para empreendedores digitais
+  tagline: Empreendedorismo digital
   about:
-    intro: O marketplace de trabalho
-    text: Oferecemos um marketplace de serviços para desenvolvimento e conteúdo para plataformas digitais de qualquer lugar do mundo
-    desc: Podemos ajudar a você construir o seu negócio e tirá-lo do papel e das barreiras burocráticas
+    intro: Um local de trabalho virtual
+    text: Oferecemos um marketplace onde as melhores empresas e clientes autônomos podem encontrar freelancers apaixonados pelo que fazem para trabalhar em seus projetos, de forma remota e colaborativa, com um sistema sexy e integrado.
+    desc: Ajudamos a construir o seu negócio, diminuindo as barreiras burocráticas.
   work:
-    title: Para freelancers que desejam trabalhar independente
-    p: "Uma plataforma para freelancers iniciantes e avançados, trabalhando de forma colaborativa, e a definição de pronto para o cliente é real"
+    title: Você quer trabalhar de forma independente?
+    p: "A plataforma é desenhada para todos os freelancers, dos iniciantes aos experientes."
   service:
     title: Queremos diminuir as barreiras para novos negócios digitais
-    p: Atuando em startups na arte de fazer acontecer, com profissionais e equipes distribuidas
+    p: Atuando em startups na arte de fazer acontecer, com profissionais e equipes distribuídas
   features:
     - icon: ion-coffee
       title: Freelancers de todos os níveis
-      p: Uma comunidade inteira de desenvolvedores iniciantes e avançados que querem mostrar sua capacidade agregando em diferentes projetos
+      p: Temos uma comunidade de profissionais que querem mostrar suas habilidades, agregando em diferentes projetos
     - icon: ion-compass
       title: No seu tempo
-      p: Tanto empresas quanto profissionais trabalham de forma indepenente seguindo processos ágeis de forma remota
+      p: Empresas e profissionais que trabalham de forma independente, seguindo processos ágeis de forma remota
     - icon: ion-image
-      title: A imagem da sua empresa
+      title: Melhore sua imagem
       p: Ajudamos a criar um ambiente colaborativo de desenvolvimento da sua empresa para chegar aos profissinais com o perfil adequado
     - icon: ion-bug
       title: Trabalhamos sob demanda
-      p: Você resolve os problemas sob demanda e paga por serviço prestado e não necessida mais de alguém dedicado
+      p: Você resolve os problemas sob demanda e paga por serviço prestado
     - icon: ion-headphone
       title: Trabalho independente
-      p: Você pode trabalhar em diferentes projetos com diferentes tecnologias, aprendendo diferentes contextos
+      p: Você tem liberdade para trabalhar em diferentes projetos com diferentes tecnologias
     - icon: ion-card
       title: Pagamento facilitado
-      p: Os pagamentos para os trabalhos são facilitados e baseado em contratos inteligentes para facilitar na definição de requisitos
+      p: Os pagamentos para os trabalhos são facilitados, baseados em contratos inteligentes
     - icon: ion-planet
-      title: Contribua com idéias
-      p: Freelancers podem contribuir com novas idéias para projetos e empresas podem inovar com novos pontos de vista
+      title: Compartilhe suas ideias
+      p: Freelancers podem contribuir com novas ideias para inovar em projetos e empresas
     - icon: ion-earth
-      title: Nômades digitais
-      p: Ajudamos a abrir seu negócio em qualquer lugar do mundo e a você freelancer a receber de onde estiver
+      title: Torne-se um nômade digital
+      p: Ajudamos você a abrir seu negócio e trabalhar de qualquer lugar do mundo
   call-to-action:
-      title: "Para freelancers: Quer fazer parte deste time mundial? Seja você designer, webdesigner, desenvolvedor, especialista em SEO, tradutor, marketing de conteúdo, se inscreva e receba propostas de nossos clientes!"
-      p: Deixe seu e-mail para novos trabalhos
+      title: "Você é freelancer? Ou quer se tornar um?"
+      p: Seja parte deste time internacional que está crescendo! Seja você designer, webdesigner, desenvolvedor, tradutor, especialista de SEO ou marketing de conteúdo etc, inscreva-se na nossa lista e receba propostas de nossos clientes!
   button:
-      subscribe: Inscrever-me
-      placeholder: O meu e-mail é
+      subscribe: Submeter
+      placeholder: Digite o seu e-mail
   people:
       title: "O futuro é o que eu crio hoje. Todos os dias"
-      p: "'- Chris Brogan'"
+      p: "- Chris Brogan"
   footer:
-    copy: All rights reserved
+    copy: Todos os direitos reservados
     theme: Copyright &copy; Design &amp; Desenvolvido por
     ending: Experiência como serviço
     
@@ -74,8 +74,8 @@ global:
 
 work:
   call:
-    title: Trabalhos que realizamos para empresas
-    desc: Como podemos ajudar no seu negócio digital
+    title: O que fazemos para sua empresa
+    desc: Veja como podemos ajudar o seu negócio digital
 
   everything: Todos
   sections:
@@ -107,19 +107,19 @@ work:
     button: Fale conosco
 
 contact:
-  title: Deixe-nos seu recado
-  text: E nos diga como podemos te ajudar
+  title: Como podemos lhe ajudar?
+  text: Deixe sua mensagem!
   mail: E-mail
-  subject: Subject
-  message: Message
+  subject: Assunto
+  message: Mensagem
   address:
-    title: Nosso endereço
+    title: Onde estamos
     street: Borgergade, 26, 1300K, Copenhagen, Denmark
     mail: "Email: contact@worknenjoy.com"
-    phone: "Telefone: +4526479776"
+    phone: "Telefone/WhatsApp: +4526479776"
     map: Onde estamos
-  finalmessage: Temos como base do negócio o trabalho remoto
-  finaltext: Trabalhamos e desfrutamos de onde estivermos, desejando a liberdade total de ir e vir
+  finalmessage: A liberdade do trabalho remoto é a base do nosso negócio
+  finaltext: Nós trabalhamos e desfrutamos de onde estivermos!
   finalaction: Veja o que estamos aprontando por aí
 
 blog:
