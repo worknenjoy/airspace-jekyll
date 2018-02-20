@@ -23,7 +23,7 @@ global:
   features:
     - icon: ion-coffee
       title: Freelancers de todos os níveis
-      p: Temos uma comunidade de profissionais que querem mostrar suas habilidades, agregando em diferentes projetos
+      p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
     - icon: ion-compass
       title: No seu tempo
       p: Empresas e profissionais que trabalham de forma independente, seguindo processos ágeis de forma remota
