@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/worknenjoy/airspace-jekyll.png?columns=all)](https://waffle.io/worknenjoy/airspace-jekyll?utm_source=badge)
 # Work n enjoy
 
 This is the website of the Work n Enjoy, a company that believes that the colaborative work is very close to open source.
