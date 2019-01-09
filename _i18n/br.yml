@@ -19,29 +19,29 @@ global:
     p: "Nós gerenciamos o processo de desenvolvimento de forma independente. Não atrapalhamos sua equipe, entramos para potencializar ajudando nas entregas e escalando o projeto;"
   service:
     title: Queremos diminuir as barreiras para novos negócios digitais
-    p: Levantar necessidades de infraestrutura e agir nos pontos chaves para tornar a entrega das etapas das tarefas automatizadas, necessidades que necessitam ser desenvolvidas em paralelo e priorizadas junto com as demandas (requisitos não funcionais);
+    p: Nossa empresa é digital e atua em todo o mundo e mostramos como é possível abrir uma empresa remota
   features:
     - icon: ion-coffee
-      title: Freelancers de todos os níveis
+      title: Contribuidores de todos os níveis
       p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
     - icon: ion-compass
       title: No seu tempo
       p: Empresas e profissionais que trabalham de forma independente, seguindo processos ágeis de forma remota
     - icon: ion-image
-      title: Melhore sua imagem
-      p: Dê um up na sua marca com a ajuda dos profissinais certos
+      title: Integração e testes
+      p: Criamos formas para que seja possível a validação do cliente das funcionalidades implementadas;
     - icon: ion-bug
       title: Trabalhamos sob demanda
       p: Realizamos as tarefas do seu projeto sob demanda, e você paga por serviço prestado
     - icon: ion-headphone
-      title: Trabalho independente
-      p: Você tem liberdade para trabalhar em diferentes projetos com diferentes tecnologias
+      title: Revisão e aprendizado
+      p: Realizamos a revisão das soluções e ensinamos através de documentação como o seu projeto funciona;
     - icon: ion-card
       title: Pagamento facilitado
       p: Os pagamentos para os trabalhos são facilitados, baseados em contratos inteligentes
     - icon: ion-planet
       title: Compartilhe suas ideias
-      p: Freelancers podem contribuir com novas ideias para inovar em projetos e empresas
+      p: Noss contribuidores podem surgir com novas ideias para inovar em projetos e empresas
     - icon: ion-earth
       title: Torne-se um nômade digital
       p: Ajudamos você a abrir seu negócio e trabalhar de qualquer lugar do mundo
