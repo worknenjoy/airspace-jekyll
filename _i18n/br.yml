@@ -22,7 +22,7 @@ global:
     p: Nossa empresa é digital e atua em todo o mundo e mostramos como é possível abrir uma empresa remota
   features:
     - icon: ion-coffee
-      title: Contribuidores de todos os níveis
+      title: Todos os níveis
       p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
     - icon: ion-compass
       title: No seu tempo
