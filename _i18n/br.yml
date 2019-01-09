@@ -11,15 +11,15 @@ global:
   title: "work'n enjoy"
   tagline: Empreendedorismo digital
   about:
-    intro: Um local de trabalho virtual
-    text: Oferecemos um marketplace onde as melhores empresas e clientes autônomos podem encontrar freelancers apaixonados pelo que fazem para trabalhar em seus projetos, de forma remota e colaborativa, com um sistema sexy e integrado.
+    intro: Um local de trabalho virtual, ajudamos empresas a serem do mundo
+    text: Damos consultoria para startup e projetos atingirem seus objetivos como um negócio digital e global, onde você trabalha e aproveita de onde estiver. Damos apoio ao seu projeto com ferramentas consolidada e um processo de desenvolvimento remoto para atingir globalmente seus objetivos nas entregas de desenvolvimento das suas plataformas e serviços.
     desc: Ajudamos a construir o seu negócio, diminuindo as barreiras burocráticas.
   work:
     title: Você quer trabalhar de forma independente?
-    p: "A plataforma é desenhada para todos os freelancers, dos iniciantes aos experientes."
+    p: "Nós gerenciamos o processo de desenvolvimento de forma independente. Não atrapalhamos sua equipe, entramos para potencializar ajudando nas entregas e escalando o projeto;"
   service:
     title: Queremos diminuir as barreiras para novos negócios digitais
-    p: Atuando em startups na arte de fazer acontecer, com profissionais e equipes distribuídas
+    p: Levantar necessidades de infraestrutura e agir nos pontos chaves para tornar a entrega das etapas das tarefas automatizadas, necessidades que necessitam ser desenvolvidas em paralelo e priorizadas junto com as demandas (requisitos não funcionais);
   features:
     - icon: ion-coffee
       title: Freelancers de todos os níveis
