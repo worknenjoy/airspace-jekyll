@@ -11,40 +11,43 @@ global:
   title: "work'n enjoy"
   tagline: Digital entrepreneurship
   about:
-    intro: A virtual workplace
-    text: "We offer a marketplace where the best companies and independent clients can find passionate freelancers to work on their projects, in an remote and collaborative manner, with a smart and sexy integrated system."
-    desc: "We can help you to build your business and make it real, without suffering with burocratic barriers."
+    intro: For companies
+    text: "We offer a marketplace where the best companies and independent clients can find passionate freelancers to work on their projects, in an remote and collaborative manner."
+    desc: "We help to open your business, to be fully remote and worldwide"
   work:
-    title: Do you want to work independently?
-    p: "The platoform is designed for all freelancers, from newbies to pros."
+    title: And you're a freelancer?
+    p: "We have great opportunities, and we provide help, support and guidance"
   service:
-    title: We want to help you build your digital business
-    p: by supporting startups and professionals
+    title: This is our missions
+    p: For a better work and enjoy
   features:
     - icon: ion-coffee
-      title: Freelancers of any level
-      p: Newbie or pro, you want to show your abilities while working in a wide range of projects
+      title: We help to open your company
+      p: Open a remote company using Stripe Atlas
     - icon: ion-compass
-      title: Take your time
-      p: Companies and professionals work independently and remotely with agile proccess 
+      title: Wait for approval
+      p: It takes around 2 weeks for the registration
     - icon: ion-image
-      title: Enhance your image
-      p: Power up your brand with the help of the right professionals
+      title: You show your face
+      p: Power up your brand with the help of our professionals
     - icon: ion-bug
-      title: We work on demand
-      p: We improve your project and fix the bugs on demand, and you pay for issues solved
+      title: We solve your bugs
+      p: Whatever issue you have with your project, we are able to help with our solutions
     - icon: ion-headphone
       title: Be independent
-      p: You wil work in different projects with different technologies, so you can continously learn and improve your skills
+      p: You can have your project indenpendently and our professionals are location independent too
     - icon: ion-card
       title: Easy payment
-      p: The payments are based on smart contracts that facilitate the work, based on real requirements
+      p: We know a lot about payment worldwide, and we can help you a lot if you want to implement a marketplace
     - icon: ion-planet
-      title: Share your thoughts
-      p: Freelancers can contribute with new ideas within projects and companies
+      title: Worldwide
+      p: We want to be present and help on collaboration in different countries and cultures
     - icon: ion-earth
-      title: Become a digital nomad
-      p: "We help you to open your business anywhere in the world and work remotely"
+      title: A new way to work
+      p: "Our contributors work in what they like and we colaborate to delivery as a team"
+  call-to-action-companies:
+      title: "You have a new idea? You want to open a remote company?"
+      p: Let's create together a worldwide team! You have designers, webdesigners, developers, translators, content marketing or SEO specialist to help you etc. Subscribe to our list below, and we will get in touch!
   call-to-action:
       title: "Are you a freelancer? Or wish to become one?"
       p: Let's be part of this worldwide team! You may be a designer, webdesigner, developer, translator, content marketing or SEO specialist etc. Subscribe to our list below, and receive job proposals from our clients!
