@@ -14,6 +14,8 @@ global:
     intro: For companies
     text: "We offer a marketplace where the best companies and independent clients can find passionate freelancers to work on their projects, in an remote and collaborative manner."
     desc: "We help to open your business, to be fully remote and worldwide"
+    intro-alt: For freelancers
+    text-alt: "We have great opportunities, and we provide help, support and guidance"
   work:
     title: And for freelancers
     p: "We have great opportunities, and we provide help, support and guidance"
