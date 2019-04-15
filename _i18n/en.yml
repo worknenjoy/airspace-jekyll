@@ -1,5 +1,6 @@
 global:
   home: Home
+  listing: Listing
   companies: Companies
   blog: Blog
   services: Services

@@ -1,0 +1,19 @@
+- city: Porto Seguro
+  state: BA
+  country: Brazil
+  discount: '30%'
+  title: 'Apartamento lindo próximo a Axé Moi'
+  subtitle: 'Lugar para ficar próximo a praia.'
+  description: 'Venha se hospedar na melhor localização da Orla, na Praia de Taperapuan. Apartamento novo e mobiliado, pertinho da Axé Moi e da Barraca do Gaúcho.'
+  service: 'Design'
+  image: 'casa-de-praia.jpg'
+
+- city: Rio de Janeiro
+  state: RJ
+  country: Brazil
+  discount: '30%'
+  title: 'Apartment in Ilha da Gigoia Island'
+  subtitle: 'A calm island inside Rio'
+  description: "My place is inside Ilha da Gigóia, a little island inside Barra da Tijuca. It's a very quiet place that separates from crowd of a big city just by a little river."
+  service: 'Writing'
+  image: 'ilha-da-gigoia-listing.jpg'

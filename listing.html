@@ -1,0 +1,84 @@
+---
+layout: page
+title: Listing
+permalink: /listing
+---
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>{% t listing.call.title %}</h1>
+          <p>{% t listing.call.desc %}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Portfolio Start -->
+<section id="listing">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <div class="container-listing">
+            <div class="info">
+              <h1>{% t listing.desc.first %}</h1><span>{% t listing.desc.sec %} <i class='fa fa-heart animated infinite pulse'></i> {% t listing.desc.third %} <a
+                  href='http://andy.design'>{% t listing.desc.forth %}</a> | {% t listing.desc.fifth %} <a
+                  href='http://justinkwak.com'>{% t listing.desc.sixth %}</a></span>
+            </div>
+            {% for item in site.data.listing %}
+            <!-- Normal Demo-->
+            <div class="column">
+              <div class="demo-title">{{ item.city }}, {{ item.state }}</div>
+              <!-- Post-->
+              <div class="post-module hover">
+                <!-- Thumbnail-->
+                <div class="thumbnail">
+                  <div class="date">
+                    <div class="day">{{ item.discount }}</div>
+                  </div><img
+                    src="/img/listings/{{ item.image }}" />
+                </div>
+                <!-- Post Content-->
+                <div class="post-content">
+                  <div class="category">{{ item.service }}</div>
+                  <h1 class="title">{{ item.title }}</h1>
+                  <h2 class="sub_title">{{ item.subtitle }}</h2>
+                  <p class="description">{{ item.description }}</p>
+                  <div class="post-meta"><span class="timestamp"><i class="fa fa-clock-">o</i> 6 mins ago</span><span
+                      class="comments"><i class="fa fa-comments"></i><a href="#"> 39 comments</a></span></div>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>{% t work.final.title %}</h2>
+          <p>{% t work.final.text %}</p>
+          <a class="btn btn-default btn-call-to-action" href="{{ site.baseurl }}/contact">{% t work.final.button %}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script type="text/javascript">
+    $(window).load(function() {
+      $('.post-module').hover(function() {
+        $(this).find('.description').stop().animate({
+          height: "toggle",
+          opacity: "toggle"
+        }, 300);
+      });
+  });
+  </script>

@@ -1,0 +1,73 @@
+/*
+ * This css file includes styles added in the jekyll port of this theme.
+ * To find the original style.css that ships with Airspace, read airspace.css
+ *
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900);
+
+ .italic {
+   font-style: italic;
+ }
+
+ .bold {
+   font-weight: bold;
+ }
+
+ .center-text {
+   text-align: center;
+ }
+
+.main-text-highlight {
+    color: #fff;
+    font-size: 82px !important;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif !important;
+    text-shadow: 0 0 6px rgba(0,0,0,0.9);
+}
+
+ .inverse-text {
+     color: white;
+     font-weight: bold;
+     padding: 10px;
+     background: #e82432;
+     opacity: 0.6;
+     display: inline-block;
+ }
+
+.post-area {
+  padding: 40px;
+  width: 100%;
+  min-height: 150px;
+  background-color: white;
+  border-bottom: 1px dotted #ddd;
+}
+
+.post-area a:link, .post-area a:visited {
+  font-size: 30px;
+  color: #333;
+}
+
+.post-area a:hover {
+  color: #0D0017;
+}
+
+#slider .block h1 {
+ visibility: hidden;
+ height: 1px;
+ padding: 0;
+ margin: 0;
+}
+
+.block p {
+    margin: 0 0 41px;
+}
+
+.navbar-right {
+    padding-right: 40px;
+}
+
+.post-date {
+  font-size: 14px;
+  display: block;
+}
