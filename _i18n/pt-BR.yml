@@ -1,0 +1,147 @@
+global:
+  home: Home
+  listing: Lugares
+  companies: Empresas
+  blog: Blog
+  services: Serviços
+  contact: Contato
+  lang: Escolha seu idioma
+  one-country: Português
+  other-country: English
+  fork: Fork me on GitHub
+  title: "work'n enjoy"
+  tagline: Empreendedorismo digital
+  about:
+    intro: Um local de trabalho virtual, ajudamos empresas a serem do mundo
+    text: Damos consultoria para startup e projetos atingirem seus objetivos como um negócio digital e global, onde você trabalha e aproveita de onde estiver. Damos apoio ao seu projeto com ferramentas consolidada e um processo de desenvolvimento remoto para atingir globalmente seus objetivos nas entregas de desenvolvimento das suas plataformas e serviços.
+    desc: Ajudamos a construir o seu negócio, diminuindo as barreiras burocráticas.
+  work:
+    title: Você quer trabalhar de forma independente?
+    p: "Nós gerenciamos o processo de desenvolvimento de forma independente. Não atrapalhamos sua equipe, entramos para potencializar ajudando nas entregas e escalando o projeto;"
+  service:
+    title: Queremos diminuir as barreiras para novos negócios digitais
+    p: Nossa empresa é digital e atua em todo o mundo e mostramos como é possível abrir uma empresa remota
+  features:
+    - icon: ion-coffee
+      title: Todos os níveis
+      p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
+    - icon: ion-compass
+      title: No seu tempo
+      p: Empresas e profissionais que trabalham de forma independente, seguindo processos ágeis de forma remota
+    - icon: ion-image
+      title: Integração e testes
+      p: Criamos formas para que seja possível a validação do cliente das funcionalidades implementadas;
+    - icon: ion-bug
+      title: Trabalhamos sob demanda
+      p: Realizamos as tarefas do seu projeto sob demanda, e você paga por serviço prestado
+    - icon: ion-headphone
+      title: Revisão e aprendizado
+      p: Realizamos a revisão das soluções e ensinamos nossos profissionais a se aperfeiçoarem;
+    - icon: ion-card
+      title: Pagamento facilitado
+      p: Os pagamentos para os trabalhos são facilitados, baseados em contratos inteligentes
+    - icon: ion-planet
+      title: Compartilhe suas ideias
+      p: Nossos contribuidores podem surgir com novas ideias para dar novas visões do projeto
+    - icon: ion-earth
+      title: Torne-se um nômade digital
+      p: Ajudamos você a abrir seu negócio e trabalhar de qualquer lugar do mundo
+  call-to-action:
+      title: "Você é freelancer? Ou quer se tornar um?"
+      p: Seja parte deste time internacional que está crescendo! Seja você designer, webdesigner, desenvolvedor, tradutor, especialista de SEO ou marketing de conteúdo etc, inscreva-se na nossa lista e receba propostas de nossos clientes!
+  button:
+      subscribe: Submeter
+      placeholder: Digite o seu e-mail
+  people:
+      title: "O futuro é o que eu crio hoje. Todos os dias"
+      p: "- Chris Brogan"
+  footer:
+    copy: Todos os direitos reservados
+    theme: Copyright &copy; Design &amp; Desenvolvido por
+    ending: Experiência como serviço
+    
+  counters:
+    tasks: Tarefas resolvidas
+    coffee: Cafés tomados
+    transactions: Reais em transações
+    companies: Empresas
+    contracts: Acordos de trabalho
+    freelancers: Freelancers
+
+  testimonials:
+    person: "Amanda Pedroso"
+    text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
+    role: Desenvolvedora
+
+listing:
+  call:
+    title: Lugares para trabalhar
+    desc: "Temos aqui algumas opções para você poder trabalhar e curtir!"
+  desc:
+    first: Temos lugares para trabalho remoto
+    sec: Selecionamos com
+    third: alguns lugares para trabalhar remoto em baixa temporada
+    forth: com um desconto
+    fifth: para você poder oferecer seus serviços 
+    sixth: e ajudar o local com seu expertise
+  final:
+    title: Tem interesse?
+    text: Entre em contato para saber mais
+    button: Envie para gente uma mensagem
+
+work:
+  call:
+    title: O que fazemos para sua empresa
+    desc: Veja como podemos ajudar o seu negócio digital
+
+  sections:
+    title: Work with us
+    text: See the services we provide
+    everything: Todos
+    branding: Design
+    websites: Websites
+    seo: SEO
+    development: Desenvolvimento
+    content-marketing: Marketing de conteúdo
+
+  branding:
+    title: Design
+    text: Colocamos você com profissinais de design prontos para fortalecer sua marca e experiência
+  websites:
+    title: Sites
+    text: Você pode criar um site gratuito e contratar serviços para alavancá-lo de acordo com seu negócio
+  seo:
+    title: Otimização para buscas
+    text: Contrate melhorias de SEO que serão diretamente dentro da plataforma
+
+  development:
+    title: Desenvolvimento de sistemas
+    text: Desenvolvemos sistemas e ferramentas de forma distribuída e ágil
+  content-marketing:
+    title: Marketing de conteúdo
+    text: Conteúdo de qualidade para estimular sua relevância no mercado e agregar valor ao negócio
+  final:
+    title: Faça um teste conosco
+    text: Veja como podemos revolucionar seu negócio
+    button: Fale conosco
+
+contact:
+  title: Como podemos lhe ajudar?
+  text: Deixe sua mensagem!
+  mail: E-mail
+  subject: Assunto
+  message: Mensagem
+  address:
+    title: Onde estamos
+    street: Borgergade, 26, 1300K, Copenhagen, Denmark
+    mail: "Email: contact@worknenjoy.com"
+    phone: "Telefone/WhatsApp: +4526479776"
+    map: Onde estamos
+  finalmessage: A liberdade do trabalho remoto é a base do nosso negócio
+  finaltext: Nós trabalhamos e desfrutamos de onde estivermos!
+  finalaction: Veja o que estamos aprontando por aí
+
+blog:
+  title: Saiba o que está acontecendo
+  desc: No universo da tecnologia
+  
