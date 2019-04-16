@@ -1,6 +1,6 @@
 global:
   home: Home
-  listing: Listing
+  listing: Listings
   companies: Companies
   blog: Blog
   services: Services
@@ -79,13 +79,27 @@ global:
     text: "The work is fluid and very collaborative with the client. It was my first freelance job, and I got a constructive feedback in the end, in order to improve my work next time. I'm very satisfied to work in this collaborative way. It brought me a lot of knowledge."
     role: Developer
 
+listing:
+  call:
+    title: Places to work
+    desc: "Here some listing to you be able to work and enjoy!"
+  desc:
+    first: We have places for you work remotely 
+    sec: We selected with
+    third: some places to work remotely in low season
+    forth: with a discount
+    fifth: and you can offer your services 
+    sixth: and help the place providing your expertise
+
 work:
   call:
     title: Our work for companies
     desc: How we can help you grow your digital business
 
-  everything: Everything
   sections:
+    title: Work with us
+    text: See the services we provide
+    everything: Everything
     branding: Design
     websites: Websites
     seo: SEO

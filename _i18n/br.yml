@@ -73,13 +73,27 @@ global:
     text: "A forma de trabalho é fluida e de muita cooperação da parte do cliente. Como primeiro freela, obtive um feedback construtivo para os próximos freelas ao final do job. Fiquei muito satisfeita de trabalhar de forma tão colaborativa e ainda me trouxe muito conhecimento."
     role: Desenvolvedora
 
+listing:
+  call:
+    title: Lugares para trabalhar
+    desc: "Temos aqui algumas opções para você poder trabalhar e curtir!"
+  desc:
+    first: Temos lugares para trabalho remoto
+    sec: Selecionamos com
+    third: alguns lugares para trabalhar remoto em baixa temporada
+    forth: com um desconto
+    fifth: para você poder oferecer seus serviços 
+    sixth: e ajudar o local com seu expertise
+
 work:
   call:
     title: O que fazemos para sua empresa
     desc: Veja como podemos ajudar o seu negócio digital
 
-  everything: Todos
   sections:
+    title: Work with us
+    text: See the services we provide
+    everything: Todos
     branding: Design
     websites: Websites
     seo: SEO
