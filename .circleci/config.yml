@@ -16,6 +16,7 @@ jobs:
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
               bash publish.sh
+            fi
 
 workflows:
   version: 2
