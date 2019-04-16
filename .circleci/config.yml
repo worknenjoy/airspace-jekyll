@@ -9,11 +9,9 @@ jobs:
     - image: circleci/ruby:2.5.1
     steps:
       - checkout
+      - run: git checkout gh-pages
       - run: bundle install
-      #- run: bundle exec jekyll build
-      - run: git config credential.helper "store --file=.git/credentials"; echo "https://${GITHUB_OAUTH_TOKEN}:@github.com" > .git/credentials 2>/dev/null
-      - run: git config --global user.email "alexanmtz@gmail.com"
-      - run: git config --global user.name "Alexandre Magno"
+      - run: bundle exec jekyll build
       - deploy:
           name: Deploy Release to GitHub
           command: |
