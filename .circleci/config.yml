@@ -9,14 +9,13 @@ jobs:
     - image: circleci/ruby:2.5.1
     steps:
       - checkout
-      - run: git checkout gh-pages
       - run: bundle install
       - run: bundle exec jekyll build
       - deploy:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
-              bash publish.sh
+              git add . && git commit -m 'build page' && git push origin master && git push origin --delete gh-pages && git subtree push --prefix _site/ origin gh-pages
             fi
 
 workflows:
