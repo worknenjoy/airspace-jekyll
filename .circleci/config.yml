@@ -15,7 +15,7 @@ jobs:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
-              bash publish
+              bash publish.sh
 
 workflows:
   version: 2
