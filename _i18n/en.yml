@@ -90,6 +90,10 @@ listing:
     forth: with a discount
     fifth: and you can offer your services 
     sixth: and help the place providing your expertise
+  final:
+    title: Are you interested?
+    text: Contact us to know more
+    button: Send us a message
 
 work:
   call:
