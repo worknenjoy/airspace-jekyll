@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Título para texto sobre desafios do trabalho freelancer e remoto"
+author: "Alexandre Magno"
+meta: "Desafios do trabalho freelancer e remoto"
+---
+
 Você deve editar este arquivo com o seu texto
 
 Você pode usar
