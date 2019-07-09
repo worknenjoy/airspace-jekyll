@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Título para texto sobre desafios do trabalho freelancer e remoto"
-author: "Alexandre Magno"
+author: "Seu nome aqui"
 meta: "Desafios do trabalho freelancer e remoto"
 ---
 
