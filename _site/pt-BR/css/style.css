@@ -67,7 +67,7 @@
     padding-right: 40px;
 }
 
-.post-date {
+.post-date, .post-date a {
   font-size: 14px;
   display: block;
 }
