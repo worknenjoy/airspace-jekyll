@@ -1,7 +1,7 @@
 global:
   home: Home
   listing: Listings
-  companies: Companies
+  companies: Projects
   blog: Blog
   services: Services
   contact: Contact
@@ -97,8 +97,8 @@ listing:
 
 work:
   call:
-    title: Our work for companies
-    desc: How we can help you grow your digital business
+    title: Projects
+    desc: We've been involved
 
   sections:
     title: Work with us
