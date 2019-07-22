@@ -18,7 +18,7 @@ jobs:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
-              git add . && git commit -m 'build page' && git push origin master && git push origin --delete gh-pages && git subtree push --prefix _site/ origin gh-pages
+              git add . && git commit -m 'build page' --allow-empty && git push origin master && git push origin --delete gh-pages && git subtree push --prefix _site/ origin gh-pages
             fi
     environment:
       GITHUB_OAUTH_TOKEN: ${GITHUB_OAUTH_TOKEN}
