@@ -1,0 +1,11 @@
+- name: "Gitpay"
+  url: "https://gitpay.me"
+  image: "img/gitpay-cover.png"
+  text: "Gitpay is a bounty platform to reward contributors for issues solved with git"
+  tags: development, open source, bounties, freelancer, contribution
+
+- name: "Truppie"
+  url: "https://truppie.com"
+  image: "img/truppie-cover.png"
+  text: "Truppie is a marketplace for adventures"
+  tags: marketplace, travel, tour, guides
