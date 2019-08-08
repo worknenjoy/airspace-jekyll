@@ -13,7 +13,7 @@ No entanto, o que era uma esperança de dias melhores, se transformou em um sent
 
 Quando eu ainda estava lutando naqueles sites, tive a sensação de que eu estava em uma guerra, onde a cada migalha jogada,  as pessoas se atropelam desesperadamente para pegar. Portanto, minha experiência nestes sites de trabalho freelance é péssima e eu acabei desistindo. Perdi tempo, energia e me senti mal comigo mesma, ansiosa e com sensação de impotência, o que fez com que eu não considerasse mais na minha vida a possibilidade de conseguir trabalhos por estes meios.  
 
-# **Trabalho remoto para mães** <h2>
+# **Trabalho remoto para mães**
   
 Atualmente, eu tenho um trabalho freelance remoto e isso me possibilita ter uma qualidade de vida melhor. Para mim, que sou mãe de uma criança pequena, e mãe solo, esse modelo de trabalho é o mais viável, pois me possibilita ter um estilo de vida mais sereno e equilibrado. 
 
