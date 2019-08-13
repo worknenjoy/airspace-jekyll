@@ -69,7 +69,7 @@ global:
   counters:
     tasks: Tasks solved
     coffee: Coffees taken
-    transactions: In BRL
+    transactions: In USD
     companies: Companies
     contracts: Work agreements
     freelancers: Freelancers
