@@ -21,7 +21,13 @@ global:
   service:
     title: Queremos diminuir as barreiras para novos negócios digitais
     p: Nossa empresa é digital e atua em todo o mundo e mostramos como é possível abrir uma empresa remota
-  features:
+  company:
+    title: Como podemos ajudar sua empresa
+    p: Aqui estão os serviços que provemos
+  freelancer:
+    title: Como podemos ajudar freelancer a obterem o máxima das suas carreiras
+    p: Aqui estão nossos valores para os freelancers
+  features-company:
     - icon: ion-coffee
       title: Todos os níveis
       p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
@@ -46,6 +52,34 @@ global:
     - icon: ion-earth
       title: Torne-se um nômade digital
       p: Ajudamos você a abrir seu negócio e trabalhar de qualquer lugar do mundo
+  features-freelancer:
+    - icon: ion-coffee
+      title: Todos os níveis
+      p: Temos uma comunidade de profissionais que querem mostrar suas habilidades
+    - icon: ion-compass
+      title: No seu tempo
+      p: Empresas e profissionais que trabalham de forma independente, seguindo processos ágeis de forma remota
+    - icon: ion-image
+      title: Integração e testes
+      p: Criamos formas para que seja possível a validação do cliente das funcionalidades implementadas;
+    - icon: ion-bug
+      title: Trabalhamos sob demanda
+      p: Realizamos as tarefas do seu projeto sob demanda, e você paga por serviço prestado
+    - icon: ion-headphone
+      title: Revisão e aprendizado
+      p: Realizamos a revisão das soluções e ensinamos nossos profissionais a se aperfeiçoarem;
+    - icon: ion-card
+      title: Pagamento facilitado
+      p: Os pagamentos para os trabalhos são facilitados, baseados em contratos inteligentes
+    - icon: ion-planet
+      title: Compartilhe suas ideias
+      p: Nossos contribuidores podem surgir com novas ideias para dar novas visões do projeto
+    - icon: ion-earth
+      title: Torne-se um nômade digital
+      p: Ajudamos você a abrir seu negócio e trabalhar de qualquer lugar do mundo
+  call-to-action-companies:
+      title: "Você tem uma nova idéia? Quer abrir uma empresa remota?"
+      p: "Vamos criar uma nova startup ou dar um boost no que você já tem feito! Temos uma comunidade de designers, webdesigners, desenvolvedores, tradutores, marketing de conteúdo e especialistas em SEO Para lhe ajudar. Se inscreva na lista e entraremos em contato!"
   call-to-action:
       title: "Você é freelancer? Ou quer se tornar um?"
       p: Seja parte deste time internacional que está crescendo! Seja você designer, webdesigner, desenvolvedor, tradutor, especialista de SEO ou marketing de conteúdo etc, inscreva-se na nossa lista e receba propostas de nossos clientes!
