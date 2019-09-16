@@ -9,3 +9,10 @@
   image: "img/clients/clients-logo6.png"
   text: "Truppie is a marketplace for adventures"
   tags: marketplace, travel, tour, guides
+
+- name: "Ahorta"
+  url: "https://ahorta.io"
+  image: "img/clients/ahorta-logo-medium.png"
+  text: "An IoT device to check your plant humidity"
+  tags: IOT, API, connected devices, python, biosustain
+
