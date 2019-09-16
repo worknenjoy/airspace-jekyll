@@ -12,7 +12,7 @@
 
 - name: "Ahorta"
   url: "https://ahorta.io"
-  image: "img/clients/ahorta-logo-medium.png"
+  image: "img/clients/ahorta-logo-small-big-bg.png"
   text: "An IoT device to check your plant humidity"
   tags: IOT, API, connected devices, python, biosustain
 
