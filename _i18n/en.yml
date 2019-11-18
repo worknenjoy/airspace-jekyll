@@ -13,19 +13,19 @@ global:
   tagline: Digital entrepreneurship
   about:
     intro: For companies
-    text: "Open your company to be worldwide. If you already have a company, make it worldwide"
+    text: "Open your company to provide services worldwide. If you already have a company, make it worldwide"
     desc: "We will provide for you all you need to work with worldwide marketplaces and passionate colaborators around the world"
-    intro-alt: For freelancers
-    desc-alt: Signpu to work as freelancer with us and receive new challenges
+    intro-alt: For collaborators
+    desc-alt: Signup to work as collaborator with us and work as freelancer or be hired in companies around the world
     text-alt: "We have great opportunities, and we work in community based on colaboration"
   work:
     title: Manage your company from everywhere, work on demmand and discover great tools to help you to cross the limits between countries
     p: "We provide ways of collaborative work for our freelancer aka colaborators, and guide companies to develp their projects in our community"
   company:
-    title: How we can help with your company
-    p: Here are the services we provide
+    title: How we can help you with your business
+    p: Here are the services we provide for business
   freelancer:
-    title: How can we help you to achieve the best of your career
+    title: How can we help you in your career
     p: Here is our value to help freelancers
   features-company:
     - icon: ion-coffee
@@ -54,23 +54,23 @@ global:
       p: We provide multilanguage platforms using the best tools and a community of translators
   features-freelancer:
     - icon: ion-coffee
-      title: Work for global companies
-      p: Work with different clients and we help you throught the process to work better globally
+      title: Work for global companies remote or in office worldwide
+      p: Work with different clients on demmand, and get a chance to be hired and work abroad
     - icon: ion-compass
       title: We give you a north
       p: We mentor our users to get the best of their talent, and we collaborate with each other in a good work environment
     - icon: ion-image
       title: Build platforms
-      p: You will be part of our community of contributors we will create what you need help ideas to turn into solutions
+      p: You will be part of our community of contributors we will create what you need help ideas to turn into solutions, using open source and collaborative tools
     - icon: ion-bug
       title: Solve on demand bugs
-      p: Whatever issue the client have with their projects, you will be part of a community who will solve it, and be rewarded by your contributions
+      p: Whatever issue our clients have with their projects, you will be part of a community who will help to solve it, and you will be paid by your contributions
     - icon: ion-headphone
       title: Be independent
-      p: You can have your project remote and be a professionals in location independent and we use tools and processes to sync projects and deliveries using agile methodologies
+      p: You can work remotely and you will be in a community of professionals location independent and we use tools and processes to sync projects and deliveries using agile methodologies
     - icon: ion-card
       title: Worldwide payment
-      p: We know a lot about payment worldwide, and we can setup a worldwide marketplace and provide you a easy way to pay for project demands and receive money
+      p: We know a lot about payment worldwide, and we can setup a worldwide marketplace and provide you a easy way to be paid for your work
     - icon: ion-planet
       title: The future of work
       p: "We make part of the new way of work, more descentralized and based on collaboration, in the way that it can sustain and scale remotely"
