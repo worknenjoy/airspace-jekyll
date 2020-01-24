@@ -2,8 +2,15 @@
 
 This is the website of the Work n Enjoy, a company that believes that the colaborative work is very close to open source.
 
-## Usage
-All the website content is here, you can edit and then request a pull request.
+## Install
+
+ * ruby-2.6.3 [ x86_64 ]
+ * ruby-2.6.5 [ x86_64 ]
+
+`gem install bundler`
+`bundle install`
+`bundle exec jekyll serve`
+
 
 ### Issues
 If you go in the list issues, actually you will find demands for this project, that you can be assigend and paid having a account on http://gitpay.me.
