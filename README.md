@@ -13,7 +13,7 @@ This is the website of Work n Enjoy, a company that believes that collaborative 
 
 
 ### Issues
-If you go in the list issues, actually you will find demands for this project, that you can be assigend and paid having a account on http://gitpay.me.
+If you go through the list of issues, actually you will find demands for this project that you can be assigned and paid for by having an account on http://gitpay.me.
 
 ## What we use
 
