@@ -1,6 +1,6 @@
 # Work n enjoy
 
-This is the website of the Work n Enjoy, a company that believes that the colaborative work is very close to open source.
+This is the website of Work n Enjoy, a company that believes that collaborative work is very close to open source.
 
 ## Install
 
