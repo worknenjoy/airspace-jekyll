@@ -4,7 +4,6 @@ This is the website of Work n Enjoy, a company that believes that collaborative 
 
 ## Install
 
- * ruby-2.6.3 [ x86_64 ]
  * ruby-2.6.5 [ x86_64 ]
 
 `gem install bundler`
