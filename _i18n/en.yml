@@ -166,10 +166,10 @@ contact:
   subject: Subject
   message: Submit
   address:
-    title: Where we are located
-    street: Borgergade, 26, 1300K, Copenhagen, Denmark
-    mail: "Email: contact@worknenjoy"
-    phone: "Phone: +4526479776"
+    title: Where we are registered
+    street: 9450 SW Gemini Dr PMB 72684, Beaverton, OR, 97008-7105, US
+    mail: "Email: business@worknenjoy.com"
+    phone: "Phone: +4526279127"
     map: On the map
   finalmessage: We have the freedom of remote work as our main concept
   finaltext: We work and enjoy wherever we are!
