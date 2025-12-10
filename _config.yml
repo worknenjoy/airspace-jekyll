@@ -6,14 +6,10 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
-  - "publish.sh"
   - "worknenjoy.iml"
   - ".git"
   - ".gitignore"
   - "publish.sh"
-
-gems:
-  - jekyll-multiple-languages-plugin
 
 languages: ["en", "pt-BR"]
 #exclude_from_localizations: ["javascript", "images", "css"]

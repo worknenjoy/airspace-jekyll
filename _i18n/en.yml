@@ -10,89 +10,89 @@ global:
   other-country: English
   fork: Fork me on GitHub
   title: "work'n enjoy"
-  tagline: Digital entrepreneurship
+  tagline: Digital Entrepreneurship for a Borderless World
   about:
     intro: For companies
-    text: "Open your company to provide services worldwide. If you already have a company, make it worldwide"
-    desc: "We will provide for you all you need to work with worldwide marketplaces and passionate colaborators around the world"
+    text: "Expand your business beyond borders. We help you operate globally, hire internationally, and access specialized talent wherever they live."
+    desc: "Our platform equips companies with everything needed to collaborate with global professionals and build scalable digital products with worldwide reach."
     intro-alt: For collaborators
-    desc-alt: Signup to work as collaborator with us and work as freelancer or be hired in companies around the world
-    text-alt: "We have great opportunities, and we work in community based on colaboration"
+    desc-alt: "Join our global network of freelancers and professionals, work remotely, and access international job opportunities."
+    text-alt: "We believe in community-driven collaboration, fair opportunities, and empowering people to turn talent into global impact."
   work:
-    title: Manage your company from everywhere, work on demmand and discover great tools to help you to cross the limits between countries
-    p: "We provide ways of collaborative work for our freelancer aka colaborators, and guide companies to develp their projects in our community"
+    title: Manage your business from anywhere. Build on-demand, collaborate globally, and discover tools to break geographic limits.
+    p: "We connect companies with a community of highly skilled contributors and guide them in developing digital products through agile, collaborative workflows."
   company:
-    title: How we can help you with your business
-    p: Here are the services we provide for business
+    title: How Work n Enjoy supports your business
+    p: "Here are the services and solutions we provide to help your company operate globally."
   freelancer:
-    title: How can we help you in your career
-    p: Here is our value to help freelancers
+    title: How Work n Enjoy supports your career
+    p: "See how we empower freelancers to grow, learn, and work with clients around the world."
   features-company:
     - icon: ion-coffee
-      title: Open your company
-      p: Open a remote company using Stripe Atlas from any place, worldwide and in a startup environment
+      title: Start your global company
+      p: "Set up a remote-first business from anywhere using Stripe Atlas and access global markets with ease."
     - icon: ion-compass
-      title: We give you a north
-      p: We will handle about everything you need to apply for Atlas to open an US company from everywhere
+      title: Guidance and compliance
+      p: "We support you through every step of creating and operating an international structure for your business."
     - icon: ion-image
       title: We build your platform
-      p: Using our community of contributors we will create what you need to turn your idea into a product
+      p: "Our community of contributors designs and develops digital products to turn your ideas into real solutions."
     - icon: ion-bug
-      title: We solve your bugs
-      p: Whatever issue you have with your project, we have a community to solve by demand, and pay as you go
+      title: Solve issues on demand
+      p: "From bugs to feature requests, our global community helps you build and fix what your business needs."
     - icon: ion-headphone
-      title: Be independent
-      p: You can have your project remote and our professionals are location independent and we use tools and processes to sync projects and deliveries using agile methodologies
+      title: Work independently
+      p: "Operate remotely with distributed professionals using agile processes, clear communication, and modern collaboration tools."
     - icon: ion-card
-      title: Worldwide payment
-      p: We know a lot about payment worldwide, and we can setup a worldwide marketplace and provide you a easy way to pay for project demands and receive money
+      title: Global payments
+      p: "We simplify worldwide payments, helping you pay for services and receive money smoothly across borders."
     - icon: ion-planet
       title: The future of work
-      p: "We make part of the new way of work, more descentralized and based on collaboration, in the way that it can sustain and scale remotely"
+      p: "We embrace a decentralized work model based on collaboration, flexibility, and global connectivity."
     - icon: ion-earth
       title: Multilanguage
-      p: We provide multilanguage platforms using the best tools and a community of translators
+      p: "We deliver multilingual platforms supported by a community of translators and content creators."
   features-freelancer:
     - icon: ion-coffee
-      title: Work for global companies remote or in office worldwide
-      p: Work with different clients on demmand, and get a chance to be hired and work abroad
+      title: Work with global companies
+      p: "Collaborate remotely with international clients and access opportunities to work worldwide."
     - icon: ion-compass
-      title: We give you a north
-      p: We mentor our users to get the best of their talent, and we collaborate with each other in a good work environment
+      title: Career guidance
+      p: "We mentor professionals to expand their careers and thrive in collaborative, multicultural environments."
     - icon: ion-image
-      title: Build platforms
-      p: You will be part of our community of contributors we will create what you need help ideas to turn into solutions, using open source and collaborative tools
+      title: Build impactful products
+      p: "Join our ccommunity and help transform ideas into products using open-source."
     - icon: ion-bug
-      title: Solve on demand bugs
-      p: Whatever issue our clients have with their projects, you will be part of a community who will help to solve it, and you will be paid by your contributions
+      title: On-demand contributions
+      p: "Solve real challenges for clients and get paid fairly for each contribution you make."
     - icon: ion-headphone
-      title: Be independent
-      p: You can work remotely and you will be in a community of professionals location independent and we use tools and processes to sync projects and deliveries using agile methodologies
+      title: Independence and flexibility
+      p: "Work remotely while staying connected through efficient workflows."
     - icon: ion-card
-      title: Worldwide payment
-      p: We know a lot about payment worldwide, and we can setup a worldwide marketplace and provide you a easy way to be paid for your work
+      title: Worldwide payments
+      p: "Receive payments for your work from anywhere, quickly and safely."
     - icon: ion-planet
       title: The future of work
-      p: "We make part of the new way of work, more descentralized and based on collaboration, in the way that it can sustain and scale remotely"
+      p: "Join a decentralized, borderless work model built on community, freedom, and creativity."
     - icon: ion-earth
       title: Multilanguage
-      p: We provide multilanguage platforms using the best tools and you can be part of content writers and translators
+      p: "Contribute as a writer or translator and help shape multilingual digital experiences."
   call-to-action-companies:
-      title: "You have a new idea? You want to open a remote company?"
-      p: "Let's create together a new startup or boost what you have done! We have a community of designers, webdesigners, developers, translators, content marketing or SEO specialist to help you etc. Subscribe to our list below, and we will get in touch!"
+    title: "Have a new idea? Want to build or grow a global company?"
+    p: "Let’s shape your next big step together. Our community of developers, designers, translators, SEO experts and content creators is ready to help you build, scale, and innovate. Subscribe below and we will get in touch!"
   call-to-action:
-      title: "Are you a freelancer? Or wish to become one?"
-      p: Let's be part of this worldwide team! You may be a designer, webdesigner, developer, translator, content marketing or SEO specialist etc. Subscribe to our list below, and receive job proposals from our clients!
+    title: "Are you a freelancer or want to become one?"
+    p: "Join our global network! Whether you're a designer, developer, translator, or digital specialist, subscribe below to receive curated opportunities from international clients."
   button:
-      subscribe: Subscribe
-      placeholder: Leave your email
+    subscribe: Subscribe
+    placeholder: Leave your email
   people:
-      title: '"The future is what I create today. Every day"'
-      p: "- Chris Brogan"
+    title: '"The future is what I create today. Every day"'
+    p: "- Chris Brogan"
   footer:
     copy: All rights reserved
-    theme: Copyright &copy; Design &amp; Developed by
-    ending: experience as a service
+    theme: "Design &amp; Development by"
+    ending: Experience as a Service
 
   counters:
     tasks: Tasks solved
@@ -104,30 +104,29 @@ global:
 
   testimonials:
     person: "Amanda Pedroso"
-    text: "The work is fluid and very collaborative with the client. It was my first freelance job, and I got a constructive feedback in the end, in order to improve my work next time. I'm very satisfied to work in this collaborative way. It brought me a lot of knowledge."
+    text: "The work experience is fluid, collaborative, and supportive. My first freelance job with Work n Enjoy taught me a lot, and the feedback I received helped me improve my skills. I'm grateful for this community and how it empowers contributors."
     role: Developer
 
 listing:
   call:
     title: Places to work
-    desc: "Here some listing to you be able to work and enjoy!"
+    desc: "Explore inspiring spots around the world where you can work and enjoy life."
   desc:
-    first: We have places for remote work 
-    sec: We selected places with
-    third: some places to work remotely in low season
-    forth: with a discount
-    fifth: and you can offer your services 
-    sixth: and help the place providing your expertise
+    first: We highlight destinations ideal for remote work
+    sec: We carefully select places with
+    third: unique experiences even during low season
+    forth: great opportunities and discounts
+    fifth: where you can offer your professional services
+    sixth: and collaborate with local businesses
   final:
-    title: Are you interested?
-    text: Contact us to know more
+    title: Interested?
+    text: Contact us to learn more
     button: Send us a message
 
 work:
   call:
     title: Projects
-    desc: We're continuously building new solutions
-
+    desc: "We are constantly building new solutions—join us in shaping the future."
   sections:
     title: Work with us
     text: See the services we provide
@@ -137,45 +136,44 @@ work:
     seo: SEO
     development: Development
     content-marketing: Content marketing
-
   branding:
     title: Design
-    text: We get in touch with desingers ready to make your brand stronger
+    text: Strengthen your brand with talented designers from our global community.
   websites:
-    title: Sites
-    text: We create a free website that will rock your business
+    title: Websites
+    text: We create clean, modern, and effective websites designed to elevate your business.
   seo:
     title: Search engine optimization
-    text: Get SEO services directly in the platform
-
+    text: Improve visibility and attract clients with high-quality SEO services.
   development:
     title: Development
-    text: We develop new systems and tools for your company in an agile manner
+    text: We build scalable systems, digital products, and custom tools using modern development practices.
   content-marketing:
     title: Content marketing
-    text: Quality content to improve your relevance and add value to your business
+    text: High-quality content to enhance your presence and add value to your business.
   final:
-    title: Do a test with us!
-    text: See how we can impact your business
+    title: Try working with us!
+    text: Discover how we can create real impact for your company.
     button: Send us a message
 
 contact:
-  title: How can I help you?
-  text: Leave your message
-  mail: E-mail
+  title: How can we help you?
+  text: Send us a message
+  mail: Email
   subject: Subject
   message: Submit
   address:
-    title: Where we are registered
+    text: Our address
+    title: Registered office
     street: 9450 SW Gemini Dr PMB 72684, Beaverton, OR, 97008-7105, US
     mail: "Email: business@worknenjoy.com"
-    phone: "Phone: +4526279127"
+    phone: "Phone: +45 26 27 91 27"
     map: On the map
-  finalmessage: We have the freedom of remote work as our main concept
-  finaltext: We work and enjoy wherever we are!
-  finalaction: Check out what we are doing
-  
+  finalmessage: Freedom through remote work
+  finaltext: Work and enjoy, wherever you are.
+  finalaction: Explore what we're building
+
 blog:
-  title: Be in touch
-  desc: With the latest news on technology
+  title: Stay updated
+  desc: Follow insights and stories on technology, digital work, and global entrepreneurship.
   edit: Edit this page

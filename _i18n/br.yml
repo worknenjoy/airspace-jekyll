@@ -132,6 +132,7 @@ contact:
   subject: Assunto
   message: Mensagem
   address:
+    text: Nosso endereço
     title: Onde estamos
     street: Borgergade, 26, 1300K, Copenhagen, Denmark
     mail: "Email: contact@worknenjoy.com"

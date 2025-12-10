@@ -3,16 +3,3 @@
   image: "img/clients/Gitpay201.png"
   text: "Gitpay is a bounty platform to reward contributors for issues solved with git"
   tags: development, open source, bounties, freelancer, contribution
-
-- name: "Truppie"
-  url: "https://truppie.com"
-  image: "img/clients/clients-logo6.png"
-  text: "Truppie is a marketplace for adventures"
-  tags: marketplace, travel, tour, guides
-
-- name: "Ahorta"
-  url: "https://ahorta.io"
-  image: "img/clients/ahorta-logo-small-big-bg.png"
-  text: "An IoT device to check your plant humidity"
-  tags: IOT, API, connected devices, python, biosustain
-
