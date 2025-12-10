@@ -6,7 +6,7 @@ version: 2
 jobs:
   docs:
     docker:
-    - image: circleci/ruby:2.5.1
+    - image: cimg/ruby:3.2
     steps:
       - checkout
       - run: bundle install
