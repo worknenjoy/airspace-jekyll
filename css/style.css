@@ -26,6 +26,12 @@
     text-shadow: 0 0 6px rgba(0,0,0,0.9);
 }
 
+.hero-logo {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+}
+
  .inverse-text {
      color: white;
      font-weight: bold;
